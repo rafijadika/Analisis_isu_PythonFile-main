@@ -1,0 +1,638 @@
+[
+  {
+    "kodekegiatan": "1.01.02.1.02",
+    "namakegiatan": "Pengelolaan Pendidikan Sekolah Menengah Kejuruan"
+  },
+  {
+    "kodekegiatan": "1.01.02.3.06",
+    "namakegiatan": "Pengelolaan Pendidikan Sekolah Menengah Kejuruan"
+  },
+  {
+    "kodekegiatan": "1.01.02.3.06",
+    "namakegiatan": "Pengelolaan Pendidikan Sekolah Menengah Kejuruan"
+  },
+  {
+    "kodekegiatan": "1.01.02.3.06",
+    "namakegiatan": "Pengelolaan Pendidikan Sekolah Menengah Kejuruan"
+  },
+  {
+    "kodekegiatan": "1.01.02.3.06",
+    "namakegiatan": "Pengelolaan Pendidikan Sekolah Menengah Kejuruan"
+  },
+  {
+    "kodekegiatan": "1.01.02.4.06",
+    "namakegiatan": "Pengelolaan Pendidikan Sekolah Menengah Kejuruan"
+  },
+  {
+    "kodekegiatan": "1.01.02.4.06",
+    "namakegiatan": "Pengelolaan Pendidikan Sekolah Menengah Kejuruan"
+  },
+  {
+    "kodekegiatan": "1.03.02.1.01",
+    "namakegiatan": "Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.02.3.01",
+    "namakegiatan": "Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.02.3.01",
+    "namakegiatan": "Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.02.3.01",
+    "namakegiatan": "Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.02.3.01",
+    "namakegiatan": "Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.02.4.01",
+    "namakegiatan": "Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.02.4.01",
+    "namakegiatan": "Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.1.02",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Perencanaan Tata Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.1.04",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "1.03.12.2.03",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.2.03",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.02",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Perencanaan Tata Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.02",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Perencanaan Tata Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.02",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Perencanaan Tata Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.02",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Perencanaan Tata Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.03",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.03",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.03",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.03",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.04",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.04",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.04",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.04",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.3.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.02",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Perencanaan Tata Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.02",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Perencanaan Tata Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.03",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.03",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.04",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.04",
+    "namakegiatan": "Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.05",
+    "namakegiatan": "Koordinasi penyelenggaraan penataan ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.03.12.4.06",
+    "namakegiatan": "Pengawasan Penataan Ruang"
+  },
+  {
+    "kodekegiatan": "1.04.05.2.01",
+    "namakegiatan": "Urusan Penyelenggaraan PSU Perumahan"
+  },
+  {
+    "kodekegiatan": "1.04.05.2.01",
+    "namakegiatan": "Urusan Penyelenggaraan PSU Perumahan"
+  },
+  {
+    "kodekegiatan": "1.04.05.3.01",
+    "namakegiatan": "Urusan Penyelenggaraan PSU Perumahan"
+  },
+  {
+    "kodekegiatan": "1.04.05.3.01",
+    "namakegiatan": "Urusan Penyelenggaraan PSU Perumahan"
+  },
+  {
+    "kodekegiatan": "1.04.05.3.01",
+    "namakegiatan": "Urusan Penyelenggaraan PSU Perumahan"
+  },
+  {
+    "kodekegiatan": "1.04.05.3.01",
+    "namakegiatan": "Urusan Penyelenggaraan PSU Perumahan"
+  },
+  {
+    "kodekegiatan": "1.04.05.4.01",
+    "namakegiatan": "Urusan Penyelenggaraan PSU Perumahan"
+  },
+  {
+    "kodekegiatan": "1.04.05.4.01",
+    "namakegiatan": "Urusan Penyelenggaraan PSU Perumahan"
+  },
+  {
+    "kodekegiatan": "1.06.03.3.06",
+    "namakegiatan": "Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri"
+  },
+  {
+    "kodekegiatan": "1.06.03.3.06",
+    "namakegiatan": "Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri"
+  },
+  {
+    "kodekegiatan": "1.06.03.3.06",
+    "namakegiatan": "Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri"
+  },
+  {
+    "kodekegiatan": "1.06.03.3.06",
+    "namakegiatan": "Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri"
+  },
+  {
+    "kodekegiatan": "1.06.03.4.02",
+    "namakegiatan": "Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri"
+  },
+  {
+    "kodekegiatan": "1.06.03.4.02",
+    "namakegiatan": "Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri"
+  },
+  {
+    "kodekegiatan": "1.06.03.4.06",
+    "namakegiatan": "Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri"
+  },
+  {
+    "kodekegiatan": "1.06.03.4.06",
+    "namakegiatan": "Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri"
+  },
+  {
+    "kodekegiatan": "2.07.03.1.01",
+    "namakegiatan": "Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi"
+  },
+  {
+    "kodekegiatan": "2.07.03.3.03",
+    "namakegiatan": "Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi"
+  },
+  {
+    "kodekegiatan": "2.07.03.3.03",
+    "namakegiatan": "Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi"
+  },
+  {
+    "kodekegiatan": "2.07.03.3.03",
+    "namakegiatan": "Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi"
+  },
+  {
+    "kodekegiatan": "2.07.03.3.03",
+    "namakegiatan": "Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi"
+  },
+  {
+    "kodekegiatan": "2.07.03.4.03",
+    "namakegiatan": "Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi"
+  },
+  {
+    "kodekegiatan": "2.07.03.4.03",
+    "namakegiatan": "Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi"
+  },
+  {
+    "kodekegiatan": "2.11.02.1.02",
+    "namakegiatan": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.02",
+    "namakegiatan": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.02",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.02",
+    "namakegiatan": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.02",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.02",
+    "namakegiatan": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.02",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.02",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.02",
+    "namakegiatan": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.03",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.03",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.03",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.3.03",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.4.02",
+    "namakegiatan": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.02.4.02",
+    "namakegiatan": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.02.4.02",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.4.02",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.4.03",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.02.4.03",
+    "namakegiatan": "Penyusunan Instrumen ekonomi lingkungan hidup"
+  },
+  {
+    "kodekegiatan": "2.11.04.2.01",
+    "namakegiatan": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.11.04.2.01",
+    "namakegiatan": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.11.04.3.01",
+    "namakegiatan": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.11.04.3.01",
+    "namakegiatan": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.11.04.3.01",
+    "namakegiatan": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.11.04.3.01",
+    "namakegiatan": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.11.04.4.01",
+    "namakegiatan": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.11.04.4.01",
+    "namakegiatan": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.11.06.1.01",
+    "namakegiatan": "Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.06.3.01",
+    "namakegiatan": "Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.06.3.01",
+    "namakegiatan": "Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.06.3.01",
+    "namakegiatan": "Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.06.3.01",
+    "namakegiatan": "Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.06.4.01",
+    "namakegiatan": "Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "2.11.06.4.01",
+    "namakegiatan": "Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.02.2.01",
+    "namakegiatan": "Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.02.2.01",
+    "namakegiatan": "Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.02.3.01",
+    "namakegiatan": "Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.02.3.01",
+    "namakegiatan": "Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.02.3.01",
+    "namakegiatan": "Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.02.3.01",
+    "namakegiatan": "Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.02.4.01",
+    "namakegiatan": "Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.02.4.01",
+    "namakegiatan": "Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.1.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.1.02",
+    "namakegiatan": "Pengelolaan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.2.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.2.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.02",
+    "namakegiatan": "Pengelolaan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.02",
+    "namakegiatan": "Pengelolaan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.02",
+    "namakegiatan": "Pengelolaan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.02",
+    "namakegiatan": "Pengelolaan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.3.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Kabupaten/Kota"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.01",
+    "namakegiatan": "Penetapan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.02",
+    "namakegiatan": "Pengelolaan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.02",
+    "namakegiatan": "Pengelolaan Cagar Budaya Peringkat Provinsi"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  },
+  {
+    "kodekegiatan": "2.22.05.4.04",
+    "namakegiatan": "Penetapan Sistem Zonasi"
+  }
+]

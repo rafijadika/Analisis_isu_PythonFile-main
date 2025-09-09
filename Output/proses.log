@@ -1460,3 +1460,18 @@ KOTA TANGERANG SELATAN          1
 2025-09-09 10:17:23,904 - INFO - 📊 Data berhasil diproses. Jumlah baris: 23
 2025-09-09 10:17:23,907 - INFO - 📂 Tabel HTML berhasil diekspor ke: Output\tabel_pemda.html
 2025-09-09 10:17:23,908 - INFO - 🎉 Proses generate tabel HTML selesai.
+2025-09-09 12:57:30,097 - ERROR - ❌ File data_klasifikasi.json tidak ditemukan.
+2025-09-09 12:58:27,741 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_klasifikasi.json berhasil dimuat.
+2025-09-09 12:58:27,741 - INFO - 📌 Daftar Tema:
+2025-09-09 12:58:27,742 - INFO - 1. ekonomi
+2025-09-09 12:58:27,746 - INFO - 2. geopark
+2025-09-09 12:58:27,747 - INFO - 3. Infrastruktur
+2025-09-09 12:58:30,755 - INFO - 📝 Tema dipilih: geopark
+2025-09-09 12:58:30,755 - INFO - 
+🔧 Pilih mode pruning:
+2025-09-09 12:58:30,756 - INFO - 1. Hapus duplikat kegiatan
+2025-09-09 12:58:30,756 - INFO - 2. Filter berdasarkan keyword
+2025-09-09 12:58:30,756 - INFO - 3. Ambil top-N kegiatan terbanyak
+2025-09-09 12:58:48,039 - INFO - ✅ Diambil 159 kegiatan teratas dari total 1032.
+2025-09-09 12:58:48,042 - INFO - 📂 Hasil pruning disimpan di: Output\hasil_pruning_geopark.json
+2025-09-09 12:58:48,042 - INFO - 🎉 Proses pruning selesai.
