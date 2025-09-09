@@ -1,0 +1,504 @@
+{
+  "klasifikasi_topik": [
+    {
+      "id": "ekonomi",
+      "nama": "Ekonomi",
+      "keywords": [
+        "ekonomi",
+        "perdagangan"
+      ]
+    },
+    {
+      "id": "sdm",
+      "nama": "SDM",
+      "keywords": [
+        "sumber daya manusia",
+        "sdm",
+        "pengembangan sumber daya manusia",
+        "tenaga kerja"
+      ]
+    },
+    {
+      "id": "lingkungan_hidup",
+      "nama": "Lingkungan Hidup",
+      "keywords": [
+        "lingkungan",
+        "lingkungan hidup",
+        "pencemaran",
+        "konservasi"
+      ]
+    },
+    {
+      "id": "bencana",
+      "nama": "Bencana",
+      "keywords": [
+        "bencana",
+        "kebencanaan",
+        "mitigasi"
+      ]
+    },
+    {
+      "id": "infrastruktur_dan_utilitas_kota",
+      "nama": "Infrastruktur dan Utilitas Kota",
+      "keywords": [
+        "infrastruktur",
+        "utilitas kota",
+        "sarana prasarana"
+      ]
+    },
+    {
+      "id": "kota_cerdas",
+      "nama": "Kota Cerdas",
+      "keywords": [
+        "kota cerdas",
+        "smart city",
+        "teknologi kota"
+      ]
+    },
+    {
+      "id": "citra_kota",
+      "nama": "Citra Kota",
+      "keywords": [
+        "citra kota",
+        "branding kota",
+        "identitas kota"
+      ]
+    },
+    {
+      "id": "kota_jasa",
+      "nama": "Kota Jasa",
+      "keywords": [
+        "kota jasa",
+        "sektor jasa"
+      ]
+    },
+    {
+      "id": "tata_kelola_pemerintahan",
+      "nama": "Tata Kelola Pemerintahan",
+      "keywords": [
+        "tata kelola",
+        "pemerintahan",
+        "good governance"
+      ]
+    },
+    {
+      "id": "ikn",
+      "nama": "IKN",
+      "keywords": [
+        "ikn",
+        "ibu kota negara",
+        "pemindahan ibu kota"
+      ]
+    },
+    {
+      "id": "pendidikan",
+      "nama": "Pendidikan",
+      "keywords": [
+        "pendidikan",
+        "sekolah",
+        "literasi"
+      ]
+    },
+    {
+      "id": "kesehatan",
+      "nama": "Kesehatan",
+      "keywords": [
+        "kesehatan",
+        "fasilitas kesehatan",
+        "rumah sakit"
+      ]
+    },
+    {
+      "id": "lapangan_pekerjaan",
+      "nama": "Lapangan Pekerjaan",
+      "keywords": [
+        "lapangan pekerjaan",
+        "pekerjaan",
+        "kesempatan kerja"
+      ]
+    },
+    {
+      "id": "pangan",
+      "nama": "Pangan",
+      "keywords": [
+        "pangan",
+        "ketahanan pangan"
+      ]
+    },
+    {
+      "id": "teknologi",
+      "nama": "Teknologi",
+      "keywords": [
+        "teknologi",
+        "digital",
+        "inovasi"
+      ]
+    },
+    {
+      "id": "sosial_budaya",
+      "nama": "Sosial Budaya",
+      "keywords": [
+        "sosial",
+        "budaya",
+        "kebudayaan"
+      ]
+    },
+    {
+      "id": "ekologi",
+      "nama": "Ekologi",
+      "keywords": [
+        "ekologi",
+        "lingkungan ekologis"
+      ]
+    },
+    {
+      "id": "kemiskinan",
+      "nama": "Kemiskinan",
+      "keywords": [
+        "kemiskinan",
+        "penanggulangan kemiskinan"
+      ]
+    },
+    {
+      "id": "pemerataan_pembangunan",
+      "nama": "Pemerataan Pembangunan",
+      "keywords": [
+        "pemerataan",
+        "pembangunan merata"
+      ]
+    },
+    {
+      "id": "revitalisasi_sungai",
+      "nama": "Revitalisasi Sungai",
+      "keywords": [
+        "sungai",
+        "revitalisasi sungai"
+      ]
+    },
+    {
+      "id": "mice",
+      "nama": "MICE",
+      "keywords": [
+        "mice",
+        "event",
+        "konferensi"
+      ]
+    },
+    {
+      "id": "fiskal_daerah",
+      "nama": "Fiskal Daerah",
+      "keywords": [
+        "fiskal",
+        "keuangan daerah",
+        "pendapatan daerah"
+      ]
+    },
+    {
+      "id": "pemukiman",
+      "nama": "Pemukiman",
+      "keywords": [
+        "pemukiman",
+        "perumahan"
+      ]
+    },
+    {
+      "id": "penataan_ruang",
+      "nama": "Penataan Ruang",
+      "keywords": [
+        "penataan ruang",
+        "tata ruang"
+      ]
+    },
+    {
+      "id": "transportasi",
+      "nama": "Transportasi",
+      "keywords": [
+        "transportasi",
+        "mobilitas",
+        "lalu lintas"
+      ]
+    },
+    {
+      "id": "iklim_global",
+      "nama": "Iklim Global",
+      "keywords": [
+        "iklim global",
+        "perubahan iklim"
+      ]
+    },
+    {
+      "id": "pariwisata",
+      "nama": "Pariwisata",
+      "keywords": [
+        "pariwisata",
+        "wisata"
+      ]
+    },
+    {
+      "id": "kebijakan_daerah",
+      "nama": "Kebijakan Daerah",
+      "keywords": [
+        "kebijakan daerah",
+        "perda"
+      ]
+    },
+    {
+      "id": "sda",
+      "nama": "SDA",
+      "keywords": [
+        "sumber daya alam",
+        "sda"
+      ]
+    },
+    {
+      "id": "megatrend_global",
+      "nama": "Megatrend Global",
+      "keywords": [
+        "megatrend",
+        "globalisasi"
+      ]
+    },
+    {
+      "id": "urbanisasi",
+      "nama": "Urbanisasi",
+      "keywords": [
+        "urbanisasi",
+        "perkembangan kota"
+      ]
+    },
+    {
+      "id": "transformasi_digital",
+      "nama": "Transformasi Digital",
+      "keywords": [
+        "transformasi digital",
+        "digitalisasi"
+      ]
+    },
+    {
+      "id": "geopolitik_global",
+      "nama": "Geopolitik global",
+      "keywords": [
+        "geopolitik",
+        "politik global"
+      ]
+    },
+    {
+      "id": "produktivitas_nasional",
+      "nama": "Produktivitas Nasional",
+      "keywords": [
+        "produktivitas",
+        "nasional"
+      ]
+    },
+    {
+      "id": "kesejahteraan_masyarakat",
+      "nama": "Kesejahteraan Masyarakat",
+      "keywords": [
+        "kesejahteraan",
+        "masyarakat sejahtera"
+      ]
+    },
+    {
+      "id": "sarana_prasarana",
+      "nama": "Sarana Prasarana",
+      "keywords": [
+        "sarana",
+        "prasarana"
+      ]
+    },
+    {
+      "id": "sampah",
+      "nama": "Sampah",
+      "keywords": [
+        "sampah",
+        "pengelolaan sampah"
+      ]
+    },
+    {
+      "id": "sanitasi",
+      "nama": "Sanitasi",
+      "keywords": [
+        "sanitasi",
+        "kebersihan"
+      ]
+    },
+    {
+      "id": "perkotaan",
+      "nama": "Perkotaan",
+      "keywords": [
+        "perkotaan",
+        "kota"
+      ]
+    },
+    {
+      "id": "mkm",
+      "nama": "MKM",
+      "keywords": [
+        "mkm",
+        "usaha kecil",
+        "mikro",
+        "umkm"
+      ]
+    },
+    {
+      "id": "pengangguran",
+      "nama": "Pengangguran",
+      "keywords": [
+        "pengangguran"
+      ]
+    },
+    {
+      "id": "pertanian",
+      "nama": "Pertanian",
+      "keywords": [
+        "pertanian",
+        "petani"
+      ]
+    },
+    {
+      "id": "industrialisasi",
+      "nama": "Industrialisasi",
+      "keywords": [
+        "industrialisasi",
+        "pabrik"
+      ]
+    },
+    {
+      "id": "pelayanan_publik",
+      "nama": "Pelayanan Publik",
+      "keywords": [
+        "pelayanan publik",
+        "layanan masyarakat"
+      ]
+    },
+    {
+      "id": "air_bersih",
+      "nama": "Air bersih",
+      "keywords": [
+        "air bersih",
+        "akses air"
+      ]
+    },
+    {
+      "id": "energi_terbarukan",
+      "nama": "Energi terbarukan",
+      "keywords": [
+        "energi terbarukan",
+        "energi hijau"
+      ]
+    },
+    {
+      "id": "keamanan",
+      "nama": "Keamanan",
+      "keywords": [
+        "keamanan",
+        "ketertiban"
+      ]
+    },
+    {
+      "id": "agama",
+      "nama": "Agama",
+      "keywords": [
+        "agama",
+        "kerukunan"
+      ]
+    },
+    {
+      "id": "hukum_dan_ham",
+      "nama": "Hukum dan HAM",
+      "keywords": [
+        "hukum",
+        "hak asasi manusia",
+        "ham"
+      ]
+    },
+    {
+      "id": "wilayah",
+      "nama": "Wilayah",
+      "keywords": [
+        "wilayah",
+        "kewilayahan"
+      ]
+    },
+    {
+      "id": "tenaga_kerja_asing",
+      "nama": "Tenaga Kerja Asing",
+      "keywords": [
+        "tenaga kerja asing",
+        "tka"
+      ]
+    },
+    {
+      "id": "stunting",
+      "nama": "Stunting",
+      "keywords": [
+        "stunting",
+        "gizi buruk"
+      ]
+    },
+    {
+      "id": "birokrasi",
+      "nama": "Birokrasi",
+      "keywords": [
+        "birokrasi",
+        "administrasi"
+      ]
+    },
+    {
+      "id": "sdgs",
+      "nama": "Sustainable Development Goals (SDG's)",
+      "keywords": [
+        "sdg",
+        "sustainable",
+        "tujuan pembangunan berkelanjutan"
+      ]
+    },
+    {
+      "id": "gender",
+      "nama": "Gender",
+      "keywords": [
+        "gender",
+        "kesetaraan gender"
+      ]
+    },
+    {
+      "id": "hak_anak",
+      "nama": "Hak Anak",
+      "keywords": [
+        "hak anak",
+        "perlindungan anak"
+      ]
+    },
+    {
+      "id": "narkoba",
+      "nama": "Narkoba",
+      "keywords": [
+        "narkoba",
+        "narkotika"
+      ]
+    },
+    {
+      "id": "lgbt",
+      "nama": "LGBT",
+      "keywords": [
+        "lgbt"
+      ]
+    },
+    {
+      "id": "minuman_keras",
+      "nama": "Minuman Keras",
+      "keywords": [
+        "minuman keras",
+        "miras"
+      ]
+    },
+    {
+      "id": "judi_online",
+      "nama": "Judi Online",
+      "keywords": [
+        "judi online",
+        "perjudian"
+      ]
+    }
+  ]
+}

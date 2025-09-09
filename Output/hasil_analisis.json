@@ -1,0 +1,38 @@
+{
+    "analisis_per_tema": {
+        "ekonomi": {
+            "total_activities": 1032,
+            "unique_activities": 450
+        },
+        "geopark": {
+            "total_activities": 1032,
+            "unique_activities": 450
+        },
+        "Infrastruktur": {
+            "total_activities": 42,
+            "unique_activities": 11
+        }
+    },
+    "top5_kegiatan": [
+        [
+            "Koordinasi penyelenggaraan penataan ruang",
+            24
+        ],
+        [
+            "Pengawasan Penataan Ruang",
+            24
+        ],
+        [
+            "Penyusunan Instrumen ekonomi lingkungan hidup",
+            24
+        ],
+        [
+            "Penetapan Sistem Zonasi",
+            24
+        ],
+        [
+            "Pengelolaan Pendidikan Sekolah Menengah Kejuruan",
+            21
+        ]
+    ]
+}

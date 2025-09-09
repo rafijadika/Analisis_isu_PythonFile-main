@@ -1,0 +1,158 @@
+[
+  {
+    "daerah_asal": "KOTA BUKITTINGGI",
+    "kodepemda_asal": "1375",
+    "tema_id": "ekonomi",
+    "tema_nama": "Ekonomi",
+    "isu_asal": "2. Peningkatan Perekonomian Masyarakat",
+    "peringkat_kemiripan": [
+      {
+        "pemda_pembanding": "KAB. KONAWE",
+        "kodepemda_pembanding": "7402",
+        "isu_pembanding": "1) penanggulangan kemiskinan dan peningkatan pendapatan masyarakat",
+        "skor": 0.8943126797676086,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA BANJARMASIN",
+        "kodepemda_pembanding": "6371",
+        "isu_pembanding": "12. Peningkatan kemampuan fiskal daerah",
+        "skor": 0.8933361172676086,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA BITUNG",
+        "kodepemda_pembanding": "7172",
+        "isu_pembanding": "7. Peningkatan ilmu pengetahuan dan teknologi",
+        "skor": 0.8894158005714417,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA SURAKARTA",
+        "kodepemda_pembanding": "3372",
+        "isu_pembanding": "1. Masyarakat Berkualitas Unggul",
+        "skor": 0.8891098499298096,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA AMBON",
+        "kodepemda_pembanding": "8171",
+        "isu_pembanding": "2. Peningkatan Potensi dan Daya Saing Ekonomi Daerah",
+        "skor": 0.8816486597061157,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KOTA BENGKULU",
+        "kodepemda_pembanding": "1771",
+        "isu_pembanding": "1. Pertumbuhan Ekonomi Inklusif dan Berkelanjutan",
+        "skor": 0.8814351558685303,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KAB. HALMAHERA TENGAH",
+        "kodepemda_pembanding": "8202",
+        "isu_pembanding": "2. Mewujudkan Pertumbuhan Ekonomi Inklusif",
+        "skor": 0.8791218996047974,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KOTA BALIKPAPAN",
+        "kodepemda_pembanding": "6471",
+        "isu_pembanding": "1. Pembangunan Ekonomi Inklusif Berkelanjutan",
+        "skor": 0.8790289759635925,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KOTA TANGERANG SELATAN",
+        "kodepemda_pembanding": "3674",
+        "isu_pembanding": "5. Peningkatan ketahanan sosial, budaya dan ekologi",
+        "skor": 0.8789706230163574,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA DENPASAR",
+        "kodepemda_pembanding": "5171",
+        "isu_pembanding": "1. Pertumbuhan Ekonomi dalam Mendorong Kemandirian Daerah",
+        "skor": 0.8756033182144165,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KOTA SAMARINDA",
+        "kodepemda_pembanding": "6472",
+        "isu_pembanding": "4. Peningkatan reformasi birokrasi secara menyeluruh",
+        "skor": 0.8705222010612488,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA JAYAPURA",
+        "kodepemda_pembanding": "9171",
+        "isu_pembanding": "4. Pengentasan Kemiskinan dan Ketimpangan Pendapatan",
+        "skor": 0.8693927526473999,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA SURABAYA",
+        "kodepemda_pembanding": "3578",
+        "isu_pembanding": "p. Peningkatan PAD",
+        "skor": 0.8633741140365601,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA SORONG",
+        "kodepemda_pembanding": "9671",
+        "isu_pembanding": "- Bertambahnya dana pembangunan desa;",
+        "skor": 0.8571761250495911,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KOTA BANDAR LAMPUNG",
+        "kodepemda_pembanding": "1871",
+        "isu_pembanding": "3. Perekonomian yang Inklusif, Berdaya saing dan Berkelanjutan",
+        "skor": 0.8493834733963013,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KAB. BANYUMAS",
+        "kodepemda_pembanding": "3302",
+        "isu_pembanding": "3. Daya saing dan Pertumbuhan Ekonomi inklusif berkelanjutan",
+        "skor": 0.8488513827323914,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KAB. MOROWALI",
+        "kodepemda_pembanding": "7206",
+        "isu_pembanding": "7. Kemajuan teknologi dan digitalisasi",
+        "skor": 0.8484767079353333,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      },
+      {
+        "pemda_pembanding": "KAB. BELITUNG",
+        "kodepemda_pembanding": "1902",
+        "isu_pembanding": "1. Fokus Kesejahteraan Ekonomi (Kurangnya Pemerataan Pertumbuhan Ekonomi Lokal yang Berkelanjutan)",
+        "skor": 0.8481690883636475,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KOTA SEMARANG",
+        "kodepemda_pembanding": "3374",
+        "isu_pembanding": "Ketimpangan kesejahteraan dan rendahnya daya saing ekonomi kota",
+        "skor": 0.8401016592979431,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KAB. MEMPAWAH",
+        "kodepemda_pembanding": "6102",
+        "isu_pembanding": "2. Optimalisasi kinerja pembangunan ekonomi dan hilirisasi industri berbasis produk unggulan daerah",
+        "skor": 0.8315006494522095,
+        "analisis_tema": "Fokus tema umum yang terdeteksi: Ekonomi."
+      },
+      {
+        "pemda_pembanding": "KOTA BOGOR",
+        "kodepemda_pembanding": "3271",
+        "isu_pembanding": "1. Sumber Daya Manusia yang Berkualitas dan Berdaya Saing",
+        "skor": 0.8186636567115784,
+        "analisis_tema": "Kecocokan berdasarkan makna kalimat secara umum."
+      }
+    ]
+  }
+]
