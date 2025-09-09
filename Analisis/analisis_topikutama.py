@@ -4,23 +4,44 @@ from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import os
+import sys
+import logging
 
-# LOAD KAMUS TEMA (disesuaikan dengan struktur JSON baru) ===
-with open("Data/kamus_tema.json", "r", encoding="utf-8") as f:
-    kamus_data = json.load(f)
+# --- SETUP LOGGING ---
+os.makedirs("./Output", exist_ok=True)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler("./Output/proses.log", encoding="utf-8"),
+        logging.StreamHandler(sys.stdout)
+    ]
+)
+
+# LOAD KAMUS TEMA ===
+kamus_path = "Data/kamus_tema.json"
+try:
+    with open(kamus_path, "r", encoding="utf-8") as f:
+        kamus_data = json.load(f)
+    logging.info(f"✅ File {kamus_path} berhasil dimuat.")
+except FileNotFoundError:
+    logging.error(f"❌ File {kamus_path} tidak ditemukan.")
+    sys.exit()
+except json.JSONDecodeError:
+    logging.error(f"❌ File {kamus_path} bukan JSON yang valid.")
+    sys.exit()
 
 if "klasifikasi_topik" not in kamus_data:
-    raise ValueError("❌ Struktur JSON tidak sesuai, key 'klasifikasi_topik' tidak ditemukan.")
+    logging.error("❌ Struktur JSON tidak sesuai, key 'klasifikasi_topik' tidak ditemukan.")
+    sys.exit()
 
-# THEMES { "Ekonomi": ["ekonomi", "perdagangan", dll}
+# THEMES { "Ekonomi": ["ekonomi", "perdagangan", dll]}
 THEMES = {item["nama"]: item["keywords"] for item in kamus_data["klasifikasi_topik"]}
-
 
 # FUNGSI CLEANING TEKS 
 def clean_issue(issue_text: str):
     """Membersihkan teks isu agar lebih siap untuk analisis TF-IDF."""
     return re.sub(r'^[a-z0-9\.\-)\s]+', '', issue_text.lower().strip())
-
 
 # ANALISIS SATU PEMDA 
 def analyze_single_region_issues_tfidf(pemda_data, threshold=0.25):
@@ -35,7 +56,6 @@ def analyze_single_region_issues_tfidf(pemda_data, threshold=0.25):
 
     # Gabungkan keyword tiap tema jadi satu teks
     theme_representations = {theme: " ".join(keywords) for theme, keywords in THEMES.items()}
-
     vectorizer = TfidfVectorizer()
 
     for issue in issues:
@@ -65,10 +85,18 @@ def analyze_single_region_issues_tfidf(pemda_data, threshold=0.25):
 
     return theme_counts, unmatched_issues, matched_issues_by_theme, theme_scores
 
-
 # LOAD DATA PEMDA 
-with open("Data/data_pemda.json", "r", encoding="utf-8") as f:
-    data = json.load(f)["data"]
+data_path = "Data/data_pemda.json"
+try:
+    with open(data_path, "r", encoding="utf-8") as f:
+        data = json.load(f)["data"]
+    logging.info(f"✅ File {data_path} berhasil dimuat. Jumlah pemda: {len(data)}")
+except FileNotFoundError:
+    logging.error(f"❌ File {data_path} tidak ditemukan.")
+    sys.exit()
+except json.JSONDecodeError:
+    logging.error(f"❌ File {data_path} bukan JSON yang valid.")
+    sys.exit()
 
 hasil_akhir = []
 
@@ -85,13 +113,16 @@ for pemda in data:
         "scores": scores,
         "unmatched_issues": unmatched
     })
-
+    logging.info(f"📊 {pemda['namapemda']} dianalisis. Top tema: {top_themes}")
 
 # SIMPAN HASIL 
-os.makedirs("./Output", exist_ok=True)
 output_path = "./Output/hasil_topikutama.json"
+try:
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(hasil_akhir, f, ensure_ascii=False, indent=2)
+    logging.info(f"📂 Hasil analisis tersimpan di '{output_path}'")
+except Exception as e:
+    logging.error(f"❌ Gagal menyimpan file: {e}")
+    sys.exit()
 
-with open(output_path, "w", encoding="utf-8") as f:
-    json.dump(hasil_akhir, f, ensure_ascii=False, indent=2)
-
-print(f"✅ Analisis selesai. Hasil ada di '{output_path}'")
+logging.info("🎉 Analisis selesai.")

@@ -2,6 +2,18 @@ import json
 import pandas as pd
 import sys
 import os
+import logging
+
+# --- SETUP LOGGING ---
+os.makedirs('./Output', exist_ok=True)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler("./Output/proses.log", encoding="utf-8"),
+        logging.StreamHandler(sys.stdout)
+    ]
+)
 
 # LOAD KAMUS TEMA
 kamus_path = './Data/kamus_tema.json'
@@ -9,20 +21,20 @@ kamus_path = './Data/kamus_tema.json'
 try:
     with open(kamus_path, 'r', encoding='utf-8') as f:
         kamus_data = json.load(f)
+    logging.info(f"✅ File {kamus_path} berhasil dimuat.")
 except FileNotFoundError:
-    print(f"❌ Error: File {kamus_path} tidak ditemukan.")
+    logging.error(f"❌ File {kamus_path} tidak ditemukan.")
     sys.exit()
 except json.JSONDecodeError:
-    print(f"❌ Error: File {kamus_path} bukan JSON yang valid.")
+    logging.error(f"❌ File {kamus_path} bukan JSON yang valid.")
     sys.exit()
 
 # Ambil daftar tema dari "klasifikasi_topik"
 if "klasifikasi_topik" not in kamus_data:
-    print("❌ Struktur JSON tidak sesuai (tidak ada key 'klasifikasi_topik').")
+    logging.error("❌ Struktur JSON tidak sesuai (tidak ada key 'klasifikasi_topik').")
     sys.exit()
 
 THEMES = {item["nama"]: item["keywords"] for item in kamus_data["klasifikasi_topik"]}
-
 
 # LOAD DATA PEMDA
 data_path = './Data/data_pemda.json'
@@ -30,24 +42,25 @@ data_path = './Data/data_pemda.json'
 try:
     with open(data_path, 'r', encoding='utf-8') as f:
         raw_data = json.load(f)
+    logging.info(f"✅ File {data_path} berhasil dimuat.")
 except FileNotFoundError:
-    print(f"❌ Error: File {data_path} tidak ditemukan.")
+    logging.error(f"❌ File {data_path} tidak ditemukan.")
     sys.exit()
 except json.JSONDecodeError:
-    print(f"❌ Error: File {data_path} bukan JSON yang valid.")
+    logging.error(f"❌ File {data_path} bukan JSON yang valid.")
     sys.exit()
 
-
 # PILIH TEMA
-print("\n📌 Daftar Tema yang tersedia:")
+logging.info("📌 Daftar Tema yang tersedia:")
 for idx, tema in enumerate(THEMES.keys(), start=1):
-    print(f"{idx}. {tema}")
+    logging.info(f"{idx}. {tema}")
 
 try:
     pilihan = int(input("\nMasukkan nomor tema yang ingin dianalisis: "))
     tema_utama = list(THEMES.keys())[pilihan - 1]
+    logging.info(f"📝 Tema dipilih: {tema_utama}")
 except (ValueError, IndexError):
-    print("❌ Pilihan tidak valid.")
+    logging.error("❌ Pilihan tidak valid.")
     sys.exit()
 
 keywords_to_search = THEMES[tema_utama]
@@ -68,21 +81,19 @@ for item in raw_data['data']:
         'Skor_Tema': jumlah_isu_tema
     })
 
-# Urutkan berdasarkan skor
 df_hasil_sorted = pd.DataFrame(hasil_analisis).sort_values(by='Skor_Tema', ascending=False)
 
-
 # SIMPAN KE JSON
-os.makedirs('./Output', exist_ok=True)
 output_path = f'./Output/hasil_tema_{tema_utama.replace(" ", "_")}.json'
 
 try:
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(hasil_analisis, f, ensure_ascii=False, indent=2)
-    print(f"📂 Hasil analisis tersimpan di {output_path}")
+    logging.info(f"📂 Hasil analisis tersimpan di {output_path}")
 except Exception as e:
-    print(f"❌ Gagal menyimpan file: {e}")
+    logging.error(f"❌ Gagal menyimpan file: {e}")
 
 # TAMPILKAN HASIL
-print("\n📊 Hasil Analisis Penyebaran:")
-print(df_hasil_sorted.to_string(index=False))
+logging.info("📊 Hasil Analisis Penyebaran:")
+logging.info("\n" + df_hasil_sorted.to_string(index=False))
+logging.info("🎉 Analisis selesai.")

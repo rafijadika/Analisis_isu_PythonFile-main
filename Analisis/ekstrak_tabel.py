@@ -2,14 +2,36 @@ import json
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
+import logging
+import sys
+import os
+
+# --- SETUP LOGGING ---
+os.makedirs("Output", exist_ok=True)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler("Output/proses.log", encoding="utf-8"),
+        logging.StreamHandler(sys.stdout)
+    ]
+)
 
 # Path file input/output
 input_path = Path("Data/data_pemda.json")
 output_path = Path("Output/tabel_pemda.html")
 
 # Load JSON
-with open(input_path, "r", encoding="utf-8") as f:
-    raw = json.load(f)
+try:
+    with open(input_path, "r", encoding="utf-8") as f:
+        raw = json.load(f)
+    logging.info(f"✅ File {input_path} berhasil dimuat.")
+except FileNotFoundError:
+    logging.error(f"❌ File {input_path} tidak ditemukan.")
+    sys.exit()
+except json.JSONDecodeError:
+    logging.error(f"❌ File {input_path} bukan JSON yang valid.")
+    sys.exit()
 
 # Ambil bagian data aja
 data = raw.get("data", raw)
@@ -18,10 +40,10 @@ rows = []
 for item in data:
     kodepemda = item.get("kodepemda")
     namapemda = item.get("namapemda")
-    isu = item.get("data", [])  
+    isu = item.get("data", [])
 
     if isinstance(isu, list):
-        isu_gabung = "<br>".join(isu) 
+        isu_gabung = "<br>".join(isu)
     else:
         isu_gabung = str(isu)
 
@@ -31,8 +53,8 @@ for item in data:
         "Isu Strategis": isu_gabung
     })
 
-# Convert ke DataFrame
 df = pd.DataFrame(rows)
+logging.info(f"📊 Data berhasil diproses. Jumlah baris: {len(df)}")
 
 # Generate tabel HTML
 table_html = df.to_html(index=False, escape=False)
@@ -91,5 +113,11 @@ html = f"""<!doctype html>
 </html>"""
 
 # Simpan ke file
-output_path.write_text(html, encoding="utf-8")
-print(f"Tabel HTML berhasil diekspor ke: {output_path}")
+try:
+    output_path.write_text(html, encoding="utf-8")
+    logging.info(f"📂 Tabel HTML berhasil diekspor ke: {output_path}")
+except Exception as e:
+    logging.error(f"❌ Gagal menyimpan file HTML: {e}")
+    sys.exit()
+
+logging.info("🎉 Proses generate tabel HTML selesai.")

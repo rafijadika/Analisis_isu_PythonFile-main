@@ -867,3 +867,596 @@
 2025-08-25 09:49:07,519 - INFO -    - Tema 'Ekonomi': 1 isu ditemukan
 2025-08-25 09:49:07,521 - INFO - ✅ Analisis selesai, menyimpan hasil...
 2025-08-25 09:49:07,523 - INFO - 📂 Hasil analisis tersimpan di ./Output/hasil.json
+2025-09-09 10:10:12,897 - INFO - 🚀 Memulai analisis klasifikasi...
+2025-09-09 10:10:12,898 - INFO - 📂 Membaca data dari: D:\testing magang\Analisis_isu_PythonFile-main\Data\data_klasifikasi.json
+2025-09-09 10:10:12,908 - INFO - --- Analisis Kuantitatif per Tema ---
+2025-09-09 10:10:12,909 - INFO - Tema: ekonomi
+2025-09-09 10:10:12,909 - INFO - Jumlah total kegiatan: 1032
+2025-09-09 10:10:12,910 - INFO - Jumlah kegiatan unik: 450
+2025-09-09 10:10:12,910 - INFO - Tema: geopark
+2025-09-09 10:10:12,910 - INFO - Jumlah total kegiatan: 1032
+2025-09-09 10:10:12,910 - INFO - Jumlah kegiatan unik: 450
+2025-09-09 10:10:12,911 - INFO - Tema: Infrastruktur
+2025-09-09 10:10:12,911 - INFO - Jumlah total kegiatan: 42
+2025-09-09 10:10:12,911 - INFO - Jumlah kegiatan unik: 11
+2025-09-09 10:10:12,911 - INFO - --- Top 5 Kegiatan yang Paling Sering Muncul ---
+2025-09-09 10:10:12,911 - INFO - 'Koordinasi penyelenggaraan penataan ruang': 24 kali
+2025-09-09 10:10:12,911 - INFO - 'Pengawasan Penataan Ruang': 24 kali
+2025-09-09 10:10:12,912 - INFO - 'Penyusunan Instrumen ekonomi lingkungan hidup': 24 kali
+2025-09-09 10:10:12,912 - INFO - 'Penetapan Sistem Zonasi': 24 kali
+2025-09-09 10:10:12,912 - INFO - 'Pengelolaan Pendidikan Sekolah Menengah Kejuruan': 21 kali
+2025-09-09 10:10:12,912 - INFO - --- Analisis Kegiatan yang Sama ---
+2025-09-09 10:10:12,912 - INFO - 'Pengelolaan Pendidikan Sekolah Menengah Kejuruan' muncul 21 kali
+2025-09-09 10:10:12,912 - INFO - 'Pengelolaan Pendidikan Sekolah Dasar' muncul 6 kali
+2025-09-09 10:10:12,912 - INFO - 'Pengelolaan Pendidikan Anak Usia Dini (PAUD)' muncul 6 kali
+2025-09-09 10:10:12,912 - INFO - 'Pengelolaan Pendidikan Non Formal/Kesetaraan' muncul 12 kali
+2025-09-09 10:10:12,912 - INFO - 'Pengelolaan Akademi Komunitas' muncul 12 kali
+2025-09-09 10:10:12,912 - INFO - 'Peningkatan Mutu Akademi Komunitas' muncul 18 kali
+2025-09-09 10:10:12,912 - INFO - 'Pengelolaan Pendidikan Sekolah Menengah Atas' muncul 18 kali
+2025-09-09 10:10:12,913 - INFO - 'Penyediaan Pembiayaan Pendidikan Bagi OAP' muncul 18 kali
+2025-09-09 10:10:12,913 - INFO - 'Pembinaan, Pengembangan dan Perlindungan Bahasa dan Sastra yang Penuturannya Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi' muncul 3 kali
+2025-09-09 10:10:12,913 - INFO - 'Pembinaan, Pengembangan dan Perlindungan Bahasa dan Sastra yang Penuturannya dalam Daerah Kabupaten/Kota' muncul 6 kali
+2025-09-09 10:10:12,913 - INFO - 'Pengelolaan Pendidikan Dayah' muncul 6 kali
+2025-09-09 10:10:12,913 - INFO - 'Penyediaan Layanan Kesehatan untuk UKM dan UKP Rujukan Tingkat Daerah Kabupaten/Kota' muncul 8 kali
+2025-09-09 10:10:12,913 - INFO - 'Penyediaan Fasilitas Pelayanan, Sarana, Prasarana dan Alat Kesehatan untuk UKP Rujukan, UKM dan UKM Rujukan Tingkat Daerah Provinsi' muncul 4 kali
+2025-09-09 10:10:12,913 - INFO - 'Penyediaan Layanan Kesehatan untuk UKP Rujukan, UKM dan UKM Rujukan Tingkat Daerah Provinsi' muncul 4 kali
+2025-09-09 10:10:12,914 - INFO - 'Pengembangan Mutu dan Peningkatan Kompetensi Teknis Sumber Daya Manusia Kesehatan Tingkat Daerah Provinsi' muncul 4 kali
+2025-09-09 10:10:12,914 - INFO - 'Penyelenggaraan Jaminan Kesehatan Papua terintegrasi dengan Program JKN' muncul 4 kali
+2025-09-09 10:10:12,914 - INFO - 'Pengembangan Mutu dan PeningkatanKompetensi Teknis Sumber Daya ManusiaKesehatan Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,914 - INFO - 'Penyelenggaraan Jaminan Kesejahteraan bagi tenaga kesehatan Papua termasuk Program Jaminan Sosial Tenaga Kerja khususnya di daerah terpencil' muncul 4 kali
+2025-09-09 10:10:12,914 - INFO - 'Penyelenggaraan Jaminan Kesejahteraan bagi tenaga kesehatan Papua termasuk Program Jaminan Sosial Tenaga Kerja khususnya di daerah terpencil di Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,914 - INFO - 'Penyelenggaraan Jaminan Keamanan bagi tenaga kesehatan, khususnya di daerah terpencil dan/atau rawan konflik' muncul 8 kali
+2025-09-09 10:10:12,914 - INFO - 'Pendayagunaan tenaga kesehatan' muncul 8 kali
+2025-09-09 10:10:12,915 - INFO - 'Advokasi, Pemberdayaan, Kemitraan,Peningkatan Peran Serta OAP' muncul 4 kali
+2025-09-09 10:10:12,915 - INFO - 'Advokasi, Pemberdayaan, Kemitraan, Peningkatan Peran Serta Masyarakat dan Lintas Sektor Tingkat Daerah Provinsi' muncul 4 kali
+2025-09-09 10:10:12,915 - INFO - 'Penyelenggaraan akreditasi pada puskesmas dan fasilitas pelayanan kesehatan tingkat pertama lain, serta rumah sakit baik milik pemerintah daerah maupun swasta' muncul 4 kali
+2025-09-09 10:10:12,915 - INFO - 'pembinaan dan dukungan sumber daya yangdibutuhkan dalam pelaksanaan akreditasiseluruh puskesmas, dan rumah sakit milih Pemerintah Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,915 - INFO - 'Dukungan pelaksanaan akreditasi fasilitas pelayanan kesehatan lain kabupaten/ kota' muncul 4 kali
+2025-09-09 10:10:12,915 - INFO - 'Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota' muncul 14 kali
+2025-09-09 10:10:12,915 - INFO - 'Pengembangan dan Pengelolaan Sistem Irigasi Primer dan Sekunder pada Daerah Irigasi yang Luasnya 1000 Ha-3000 Ha dan Daerah Irigasi Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,915 - INFO - 'Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai (WS) dalam 1 (Satu) Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,916 - INFO - 'Pengembangan dan Pengelolaan Sistem Irigasi Primer dan Sekunder pada Daerah Irigasi yang Luasnya di Bawah 1000 Ha dalam 1 (Satu) Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,916 - INFO - 'Pengelolaan dan Pengembangan Sistem Penyediaan Air Minum (SPAM) Lintas Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,916 - INFO - 'Pengelolaan dan Pengembangan Sistem Penyediaan Air Minum (SPAM) di Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,916 - INFO - 'Pengelolaan dan Pengembangan Sistem Air Limbah Domestik Regional' muncul 2 kali
+2025-09-09 10:10:12,916 - INFO - 'Pengelolaan dan Pengembangan Sistem Air Limbah Domestik dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,916 - INFO - 'Pengelolaan dan Pengembangan Sistem Drainase yang Terhubung Langsung dengan Sungai Lintas Daerah Kabupaten/Kota dan Kawasan Strategis Provinsi' muncul 2 kali
+2025-09-09 10:10:12,916 - INFO - 'Pengelolaan dan Pengembangan Sistem Drainase yang Terhubung Langsung dengan Sungai dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,916 - INFO - 'Penyelenggaraan Infrastruktur pada Permukiman di Kawasan Strategis Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,917 - INFO - 'Penyelenggaraan Infrastruktur pada Permukiman di Kawasan Strategis Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,917 - INFO - 'Penyelenggaraan perumahan dan kawasan permukiman melalui pemberian bantuan untuk pembangunan layak huni dan kawasan permukiman layak terutama bagi OAP' muncul 12 kali
+2025-09-09 10:10:12,917 - INFO - 'Penyelenggaraan perumahan dan kawasan permukiman melalui pemberian bantuan untuk pembangunan layak huni dan kawasan permukiman layak terutama bagi OAP dalam satu (1) wilayah Kabupaten/kota' muncul 12 kali
+2025-09-09 10:10:12,917 - INFO - 'Penetapan dan Penyelenggaraan Bangunan Gedung untuk Kepentingan Strategis Daerah Provinsi' muncul 4 kali
+2025-09-09 10:10:12,917 - INFO - 'Penyelenggaraan Bangunan Gedung di Wilayah Daerah Kabupaten/Kota, Pemberian Izin Mendirikan Bangunan (IMB) dan Sertifikat Laik Fungsi Bangunan Gedung' muncul 4 kali
+2025-09-09 10:10:12,917 - INFO - 'Penyelenggaraan Penataan Bangunan dan Lingkungan di Kawasan Strategis Daerah Provinsi dan Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,917 - INFO - 'Penyelenggaraan Penataan Bangunan dan Lingkungannya di Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,917 - INFO - 'Penyelenggaraan Jalan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,918 - INFO - 'Penyelenggaraan Jalan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,918 - INFO - 'Penyelenggaraan Pelatihan Tenaga Ahli Konstruksi' muncul 10 kali
+2025-09-09 10:10:12,918 - INFO - 'Penyelenggaraan Sistem Informasi Jasa Konstruksi (SIPJAKI) Cakupan Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,918 - INFO - 'Kebijakan Khusus Terhadap Penyelenggaraan Jasa Konstruksi' muncul 2 kali
+2025-09-09 10:10:12,918 - INFO - 'Penyelenggaraan Pelatihan Tenaga Terampil Konstruksi' muncul 12 kali
+2025-09-09 10:10:12,918 - INFO - 'Penyelenggaraan Sistem Informasi Jasa Konstruksi Cakupan Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,918 - INFO - 'Pengawasan Tertib Usaha, Tertib Penyelenggaraan dan Tertib Pemanfaatan Jasa Konstruksi' muncul 4 kali
+2025-09-09 10:10:12,918 - INFO - 'Penetapan Rencana Tata Ruang Wilayah dan Rencana Rinci Tata Ruang Provinsi' muncul 2 kali
+2025-09-09 10:10:12,919 - INFO - 'Koordinasi dan Sinkronisasi Perencanaan Tata Ruang' muncul 14 kali
+2025-09-09 10:10:12,919 - INFO - 'Koordinasi dan Sinkronisasi Pemanfataan Ruang Daerah Provinsi' muncul 4 kali
+2025-09-09 10:10:12,919 - INFO - 'Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi' muncul 14 kali
+2025-09-09 10:10:12,919 - INFO - 'Penetapan Rencana Tata Ruang Wilayah (RTRW) dan Rencana Rinci Tata Ruang (RRTR) Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,919 - INFO - 'Koordinasi dan Sinkronisasi Perencanaan Tata Ruang Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,919 - INFO - 'Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Kabupaten/Kota' muncul 16 kali
+2025-09-09 10:10:12,919 - INFO - 'Koordinasi dan Sinkronisasi Pengendalian Pemanfaatan Ruang Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,919 - INFO - 'Koordinasi dan Sinkronisasi Pemanfaatan Ruang Daerah Provinsi' muncul 12 kali
+2025-09-09 10:10:12,920 - INFO - 'Koordinasi penyelenggaraan penataan ruang' muncul 24 kali
+2025-09-09 10:10:12,920 - INFO - 'Pengawasan Penataan Ruang' muncul 24 kali
+2025-09-09 10:10:12,920 - INFO - 'Perencanaan Tata Ruang Satuan Ruang Strategis Kasultanan dan Kadipaten' muncul 4 kali
+2025-09-09 10:10:12,920 - INFO - 'Pemanfaatan Ruang Satuan Ruang Strategis Kasultanan dan Kadipaten' muncul 4 kali
+2025-09-09 10:10:12,920 - INFO - 'Pengendalian Pemanfaatan Penataan Ruang Satuan Ruang Strategis' muncul 2 kali
+2025-09-09 10:10:12,920 - INFO - 'Pengendalian Pemanfaatan Penataan Ruang Satuan Ruang Strategis ' muncul 2 kali
+2025-09-09 10:10:12,920 - INFO - 'Sarana dan Prasarana Keistimewaan Urusan Tata Ruang' muncul 4 kali
+2025-09-09 10:10:12,921 - INFO - 'Pendataan Penyediaan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Provinsi' muncul 2 kali
+2025-09-09 10:10:12,921 - INFO - 'Sosialisasi dan Persiapan Penyediaan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Provinsi' muncul 2 kali
+2025-09-09 10:10:12,921 - INFO - 'Pembangunan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Provinsi' muncul 2 kali
+2025-09-09 10:10:12,921 - INFO - 'Pendistribusian dan Serah Terima Rumah bagi Korban Bencana atau Relokasi Program Provinsi' muncul 2 kali
+2025-09-09 10:10:12,921 - INFO - 'Pendataan Penyediaan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,921 - INFO - 'Sosialisasi dan Persiapan Penyediaan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,921 - INFO - 'Pembangunan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,922 - INFO - 'Pendistribusian dan Serah Terima Rumah bagi Korban Bencana atau Relokasi Program Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,922 - INFO - 'Pembinaan Pengelolaan Rumah Susun Umum dan/atau Rumah Khusus' muncul 4 kali
+2025-09-09 10:10:12,922 - INFO - 'Penerbitan Izin Pembangunan dan Pengembangan Perumahan' muncul 4 kali
+2025-09-09 10:10:12,922 - INFO - 'Penerbitan Sertifikat Kepemilikan Bangunan Gedung (SKGB)' muncul 4 kali
+2025-09-09 10:10:12,922 - INFO - 'Penataan Kawasan Permukiman Kumuh dengan Luas 10 (Sepuluh) Ha sampai dengan di Bawah 15 (Lima Belas) Ha' muncul 2 kali
+2025-09-09 10:10:12,922 - INFO - 'Peningkatan Kualitas Kawasan Permukiman Kumuh dengan Luas 10 (Sepuluh) Ha sampai dengan di Bawah 15 (Lima Belas) Ha' muncul 2 kali
+2025-09-09 10:10:12,922 - INFO - 'Penerbitan Izin Pembangunan dan Pengembangan Kawasan Permukiman' muncul 4 kali
+2025-09-09 10:10:12,922 - INFO - 'Penataan dan Peningkatan Kualitas Kawasan Permukiman Kumuh dengan Luas di Bawah 10 (Sepuluh) Ha' muncul 4 kali
+2025-09-09 10:10:12,923 - INFO - 'Peningkatan Kualitas Kawasan Permukiman Kumuh dengan Luas di Bawah 10 (Sepuluh) Ha' muncul 4 kali
+2025-09-09 10:10:12,923 - INFO - 'Pencegahan Perumahan dan Kawasan Permukiman Kumuh pada Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,923 - INFO - 'Urusan Penyelenggaraan PSU Permukiman' muncul 2 kali
+2025-09-09 10:10:12,923 - INFO - 'Urusan Penyelenggaraan PSU Perumahan' muncul 16 kali
+2025-09-09 10:10:12,923 - INFO - 'Sertifikasi dan Registrasi bagi Orang atau Badan Hukum yang Melaksanakan Perancangan dan Perencanaan Rumah serta Perencanaan Prasarana, Sarana dan Utilitas Umum PSU Tingkat Kemampuan Menengah' muncul 2 kali
+2025-09-09 10:10:12,923 - INFO - 'Sertifikasi dan Registrasi bagi Orang atau Badan Hukum yang Melaksanakan Perancangan dan Perencanaan Rumah serta Perencanaan Prasarana, Sarana dan Utilitas Umum PSU Tingkat Kemampuan Kecil' muncul 4 kali
+2025-09-09 10:10:12,923 - INFO - 'Penanganan Gangguan Ketenteraman dan Ketertiban Umum Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,923 - INFO - 'Penegakan Peraturan Daerah Provinsi dan Peraturan Gubernur' muncul 2 kali
+2025-09-09 10:10:12,923 - INFO - 'Pembinaan Penyidik Pegawai Negeri Sipil (PPNS) Provinsi' muncul 2 kali
+2025-09-09 10:10:12,925 - INFO - 'Penanganan Gangguan Ketenteraman dan Ketertiban Umum dalam 1 (Satu) Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,925 - INFO - 'Penegakan Peraturan Daerah Kabupaten/Kota dan Peraturan Bupati/Wali Kota' muncul 4 kali
+2025-09-09 10:10:12,925 - INFO - 'Pembinaan Penyidik Pegawai Negeri Sipil (PPNS) Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,925 - INFO - 'Pengelolaan Satuan Polisi Pamong Praja dan Wilayatul Hisbah Aceh' muncul 2 kali
+2025-09-09 10:10:12,925 - INFO - 'Pengelolaan Satuan Polisi Pamong Praja dan Wilayatul Hisbah Aceh ' muncul 2 kali
+2025-09-09 10:10:12,925 - INFO - 'Pelayanan Informasi Rawan Bencana Provinsi' muncul 2 kali
+2025-09-09 10:10:12,925 - INFO - 'Pelayanan Pencegahan dan Kesiapsiagaan Terhadap Bencana' muncul 6 kali
+2025-09-09 10:10:12,925 - INFO - 'Pelayanan Penyelamatan dan Evakuasi Korban Bencana' muncul 6 kali
+2025-09-09 10:10:12,925 - INFO - 'Penataan Sistem Dasar Penanggulangan Bencana' muncul 6 kali
+2025-09-09 10:10:12,925 - INFO - 'Pelayanan Informasi Rawan Bencana Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,926 - INFO - 'Penyelenggaraan Pemetaan Rawan Bencana Kebakaran' muncul 2 kali
+2025-09-09 10:10:12,926 - INFO - 'Pembinaan dan Pengawasan Pencegahan, Penanggulangan, Penyelamatan Kebakaran dan Penyelamatan Non Kebakaran' muncul 2 kali
+2025-09-09 10:10:12,926 - INFO - 'Pencegahan, Pengendalian, Pemadaman, Penyelamatan, dan Penanganan Bahan Berbahaya dan Beracun Kebakaran dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,926 - INFO - 'Inspeksi Peralatan Proteksi Kebakaran' muncul 4 kali
+2025-09-09 10:10:12,926 - INFO - 'Investigasi Kejadian Kebakaran' muncul 4 kali
+2025-09-09 10:10:12,926 - INFO - 'Pemberdayaan Masyarakat dalam Pencegahan Kebakaran' muncul 4 kali
+2025-09-09 10:10:12,927 - INFO - 'Penyelenggaraan Operasi Pencarian dan Pertolongan Terhadap Kondisi Membahayakan Manusia' muncul 4 kali
+2025-09-09 10:10:12,927 - INFO - 'Pemberdayaan Potensi Sumber Kesejahteraan Sosial Provinsi' muncul 2 kali
+2025-09-09 10:10:12,927 - INFO - 'Pemberdayaan Sosial Komunitas Adat Terpencil (KAT)' muncul 4 kali
+2025-09-09 10:10:12,927 - INFO - 'Pengembangan Potensi Sumber Kesejahteraan Sosial Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,927 - INFO - 'Penerbitan Izin Pengumpulan Sumbangan Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi' muncul 4 kali
+2025-09-09 10:10:12,927 - INFO - 'Pengembangan Potensi Sumber Kesejahteraan Sosial Daerah di Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,927 - INFO - 'Pendataan SDM Kesejahteraan Sosial' muncul 4 kali
+2025-09-09 10:10:12,928 - INFO - 'Koordinasi dan Sinkronisasi Penetapan Bentuk Pengakuan dan Penghormatan terhadap Karakteristik Sosial KAT' muncul 4 kali
+2025-09-09 10:10:12,928 - INFO - 'Pembinaan dan Koordinasi Layanan Terpadu Penanggulangan Kemiskinan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,928 - INFO - 'Pendataan Lembaga Kesejahteraan Sosial Daerah' muncul 4 kali
+2025-09-09 10:10:12,928 - INFO - 'Layanan Psikososial terhadap Korban Tindak Kekerasan Dalam dan Luar Negeri' muncul 16 kali
+2025-09-09 10:10:12,928 - INFO - 'Rehabilitasi Sosial Dasar Penyandang Disabilitas TerlAntar di dalam Panti' muncul 2 kali
+2025-09-09 10:10:12,928 - INFO - 'Rehabilitasi Sosial Dasar Anak TerlAntar di dalam Panti' muncul 2 kali
+2025-09-09 10:10:12,928 - INFO - 'Rehabilitasi Sosial Dasar Lanjut Usia Terlantar di dalam Panti' muncul 2 kali
+2025-09-09 10:10:12,929 - INFO - 'Rehabilitasi Sosial Dasar Gelandangan dan Pengemis di dalam Panti' muncul 2 kali
+2025-09-09 10:10:12,929 - INFO - 'Rehabilitasi Sosial bagi Penyandang Masalah Kesejahteraan Sosial (PMKS) Lainnya di Luar HIV/AIDS dan NAPZA di dalam Panti' muncul 2 kali
+2025-09-09 10:10:12,929 - INFO - 'Rehabilitasi Sosial Dasar Penyandang Disabilitas Terlantar, Anak Terlantar, Lanjut Usia Terlantar, serta Gelandangan Pengemis di Luar Panti Sosial' muncul 4 kali
+2025-09-09 10:10:12,929 - INFO - 'Rehabilitasi Sosial Penyandang Masalah Kesejahteraan Sosial (PMKS) Lainnya Bukan Korban HIV/AIDS dan NAPZA di Luar Panti Sosial' muncul 4 kali
+2025-09-09 10:10:12,929 - INFO - 'Koordinasi Pembentukan Institusi Penerima Wajib Lapor didaerah Kabupaten/Kota.' muncul 4 kali
+2025-09-09 10:10:12,929 - INFO - 'Pengelolaan Data Fakir Miskin Cakupan Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,930 - INFO - 'Pemeliharaan Anak-Anak Terlantar' muncul 4 kali
+2025-09-09 10:10:12,930 - INFO - 'Penetapan Kebijakan dan Program, serta Skema Perlindungan Sosial dengan Mengutamakan dan Mengikutsertakan OAP' muncul 4 kali
+2025-09-09 10:10:12,930 - INFO - 'Penetapan Kebijakan dan Program, serta Skema Perlindungan Sosial di Bidang Perlindungan dan Jaminan Sosial dengan Mengutamakan dan Mengikutsertakan OAP.' muncul 4 kali
+2025-09-09 10:10:12,930 - INFO - 'Penyusunan Rencana Induk dan RAD Penanggulangan Kemiskinan di Bidang Perlindungan dan Jaminan Sosial' muncul 4 kali
+2025-09-09 10:10:12,930 - INFO - 'Penetapan Model dan Standar Bantuan Langsung Tunai dan/atau Bantuan Sosial lainnya yang bersumber dari APBD atau Dana Otonomi Khusus bagi OAP yang Memenuhi Syarat' muncul 4 kali
+2025-09-09 10:10:12,930 - INFO - 'Perlindungan Sosial Korban Bencana Alam dan Sosial Provinsi' muncul 2 kali
+2025-09-09 10:10:12,930 - INFO - 'Penyelenggaraan Pemberdayaan Masyarakat Terhadap Kesiapsiagaan Bencana Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,931 - INFO - 'Pelaksanaan Pengurangan Risiko Bencana berbasis Masyarakat ditingkat Provinsi' muncul 4 kali
+2025-09-09 10:10:12,931 - INFO - 'Penyelenggaraan Pemberdayaan Masyarakat Terhadap Kesiapsiagaan BencanaKabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,931 - INFO - 'Pengelolaan Taman Makam Pahlawan Nasional Provinsi' muncul 2 kali
+2025-09-09 10:10:12,931 - INFO - 'Pemeliharaan Taman Makam Pahlawan Nasional Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,931 - INFO - 'Penyusunan Rencana Tenaga Kerja (RTK)' muncul 6 kali
+2025-09-09 10:10:12,931 - INFO - 'Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi' muncul 14 kali
+2025-09-09 10:10:12,931 - INFO - 'Pelaksanaan Akreditasi Lembaga Pelatihan Kerja' muncul 2 kali
+2025-09-09 10:10:12,931 - INFO - 'Konsultansi Produktivitas pada Perusahaan Menengah' muncul 2 kali
+2025-09-09 10:10:12,932 - INFO - 'Pengukuran Produktivitas Tingkat Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,932 - INFO - 'Pelaksanaan Pelatihan berdasarkan Unit Kompetensi' muncul 4 kali
+2025-09-09 10:10:12,932 - INFO - 'Pembinaan Lembaga Pelatihan Kerja Swasta' muncul 4 kali
+2025-09-09 10:10:12,932 - INFO - 'Perizinan dan Pendaftaran Lembaga Pelatihan Kerja' muncul 4 kali
+2025-09-09 10:10:12,932 - INFO - 'Konsultansi Produktivitas pada Perusahaan Kecil' muncul 4 kali
+2025-09-09 10:10:12,932 - INFO - 'Pengukuran Produktivitas Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,932 - INFO - 'Pelayanan Antar Kerja Lintas Daerah Kabupaten/Kota' muncul 10 kali
+2025-09-09 10:10:12,932 - INFO - 'Penerbitan Izin Lembaga Penempatan Tenaga Kerja Swasta (LPTKS) lebih dari 1 (Satu) Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,932 - INFO - 'Pengelolaan Informasi Pasar Kerja' muncul 6 kali
+2025-09-09 10:10:12,932 - INFO - 'Pelindungan PMI (Pra dan Purna Penempatan) di Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,932 - INFO - 'Pelayanan antar Kerja di Daerah Kabupaten/Kota' muncul 12 kali
+2025-09-09 10:10:12,932 - INFO - 'Pelembagaan Pengarusutamaan Gender (PUG) pada Lembaga Pemerintah Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,932 - INFO - 'Pemberdayaan Perempuan Bidang Politik, Hukum, Sosial, dan Ekonomi pada Organisasi KeMasyarakatan Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,934 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,934 - INFO - 'Pelembagaan Pengarusutamaan Gender (PUG) pada Lembaga Pemerintah Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,934 - INFO - 'Pemberdayaan Perempuan Bidang Politik, Hukum, Sosial, dan Ekonomi pada Organisasi Kemasyarakatan Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,934 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,934 - INFO - 'Pencegahan Kekerasan terhadap Perempuan yang melibatkan para Pihak Lingkup Daerah Provinsi dan Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,934 - INFO - 'Penyediaan Layanan Rujukan Lanjutan bagi Perempuan Korban Kekerasan yang memerlukan Koordinasi Tingkat Daerah Provinsi dan Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,934 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan Perlindungan Perempuan Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,934 - INFO - 'Pencegahan Kekerasan Terhadap Perempuan Lingkup Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,934 - INFO - 'Penyediaan Layanan Rujukan Lanjutan bagi Perempuan Korban Kekerasan yang Memerlukan Koordinasi Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,934 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan Perlindungan Perempuan Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,935 - INFO - 'Peningkatan Kualitas Keluarga dalam Mewujudkan Kesetaraan Gender (KG) dan Hak Anak Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,935 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga dalam Mewujudkan KG dan Hak Anak Kewenangan Provinsi ' muncul 2 kali
+2025-09-09 10:10:12,935 - INFO - 'Penyediaan Layanan bagi Keluarga dalam Mewujudkan KG dan Hak Anak yang Wilayah Kerjanya Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,935 - INFO - 'Peningkatan Kualitas Keluarga dalam Mewujudkan Kesetaraan Gender (KG) dan Hak Anak Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,935 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga dalam Mewujudkan KG dan Hak Anak yang Wilayah Kerjanya dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,935 - INFO - 'Penyediaan Layanan bagi Keluarga dalam Mewujudkan KG dan Hak Anak yang Wilayah Kerjanya dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,936 - INFO - 'Pengumpulan, Pengolahan Analisis dan Penyajian Data Gender dan Anak dalam Kelembagaan Data di Tingkat Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,936 - INFO - 'Pengumpulan, Pengolahan Analisis dan Penyajian Data Gender dan Anak Dalam Kelembagaan Data di Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,936 - INFO - 'Pelembagaan PHA pada Lembaga Pemerintah, Non Pemerintah, dan Dunia Usaha Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,936 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Hidup Anak Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,936 - INFO - 'Pelembagaan PHA pada Lembaga Pemerintah, Nonpemerintah, dan Dunia Usaha Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,936 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Hidup Anak Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,936 - INFO - 'Pencegahan Kekerasan terhadap Anak yang Melibatkan para Pihak Lingkup Daerah Provinsi dan Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,936 - INFO - 'Penyediaan Layanan bagi Anak yang Memerlukan Perlindungan Khusus yang Memerlukan Koordinasi Tingkat Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,937 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan bagi Anak yang Memerlukan Perlindungan Khusus Tingkat Daerah Provinsi dan Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,937 - INFO - 'Pencegahan Kekerasan Terhadap Anak yang Melibatkan para Pihak Lingkup Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,937 - INFO - 'Penyediaan Layanan bagi Anak yang Memerlukan Perlindungan Khusus yang Memerlukan Koordinasi Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,937 - INFO - 'Penguatan dan Pengembangan Lembaga Penyedia Layanan bagi Anak yang Memerlukan Perlindungan Khusus Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,937 - INFO - 'Penyediaan Infrastruktur dan Seluruh Pendukung Kemandirian Pangan sesuai Kewenangan Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,937 - INFO - 'Penyediaan dan Penyaluran Pangan Pokok atau Pangan Lainnya sesuai dengan Kebutuhan Daerah Provinsi dalam rangka Stabilisasi Pasokan dan Harga Pangan' muncul 2 kali
+2025-09-09 10:10:12,937 - INFO - 'Promosi Pencapaian Target Konsumsi Pangan Perkapita/Tahun sesuai dengan Angka Kecukupan Gizi Melalui Media Provinsi' muncul 2 kali
+2025-09-09 10:10:12,938 - INFO - 'Penyediaan dan Penyaluran Pangan Pokok atau Pangan Lainnya sesuai dengan Kebutuhan Daerah Kabupaten/Kota dalam rangka Stabilisasi Pasokan dan Harga Pangan' muncul 4 kali
+2025-09-09 10:10:12,938 - INFO - 'Pengelolaan dan Keseimbangan Cadangan Pangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,938 - INFO - 'Pelaksanaan Pencapaian Target Konsumsi Pangan Perkapita/Tahun sesuai dengan Angka Kecukupan Gizi' muncul 4 kali
+2025-09-09 10:10:12,938 - INFO - 'Penyusunan Peta Kerentanan dan Ketahanan Pangan kewenangan Provinsi ' muncul 2 kali
+2025-09-09 10:10:12,938 - INFO - 'Penanganan Kerawanan Pangan Kewenangan Provinsi ' muncul 2 kali
+2025-09-09 10:10:12,938 - INFO - 'Penyusunan Peta Kerentanan dan Ketahanan Pangan Kecamatan' muncul 4 kali
+2025-09-09 10:10:12,938 - INFO - 'Penanganan Kerawanan Pangan Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,938 - INFO - 'Pelaksanaan Pengawasan Keamanan Pangan Segar Distribusi Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,938 - INFO - 'Pelaksanaan Pengawasan Keamanan Pangan Segar Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,939 - INFO - 'Inventarisasi dan Identifikasi Pengelolaan dan Pemanfaatan tanah adat lintas daerah kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,939 - INFO - 'Inventarisasi dan Identifikasi Pengelolaan dan Pemanfaatan tanah adat dan tanag kosong lintas daerah kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,939 - INFO - 'Perencanaan Penggunaan Tanah yang Hamparannya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,939 - INFO - 'Penggunaan Tanah yang Hamparannya dalam satu Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,939 - INFO - 'Rencana Perlindungan dan Pengelolaan Lingkungan Hidup (RPPLH) Provinsi' muncul 6 kali
+2025-09-09 10:10:12,939 - INFO - 'Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi' muncul 14 kali
+2025-09-09 10:10:12,939 - INFO - 'Rencana Perlindungan dan Pengelolaan Lingkungan Hidup (RPPLH) Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,940 - INFO - 'Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,940 - INFO - 'Penyusunan Instrumen ekonomi lingkungan hidup' muncul 24 kali
+2025-09-09 10:10:12,940 - INFO - 'Pencegahan Pencemaran dan/atau Kerusakan Lingkugan Hidup' muncul 2 kali
+2025-09-09 10:10:12,940 - INFO - 'Penanggulangan Pencemaran dan/atau Kerusakan Lingkungan Hidup' muncul 2 kali
+2025-09-09 10:10:12,940 - INFO - 'Pemulihan Pencemaran dan/atau Kerusakan Lingkungan Hidup' muncul 2 kali
+2025-09-09 10:10:12,940 - INFO - 'Pencegahan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,941 - INFO - 'Penanggulangan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,941 - INFO - 'Pemulihan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,941 - INFO - 'Pengelolaan Keanekaragaman Hayati Kabupaten/Kota' muncul 16 kali
+2025-09-09 10:10:12,941 - INFO - 'Pengelolaan Keanekaragaman Hayati Provinsi' muncul 12 kali
+2025-09-09 10:10:12,941 - INFO - 'Pengumpulan Limbah B3 Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,941 - INFO - 'Penyimpanan sementara Limbah B3' muncul 4 kali
+2025-09-09 10:10:12,941 - INFO - 'Pengumpulan Limbah B3 dalam 1 (Satu) Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,942 - INFO - 'Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi' muncul 14 kali
+2025-09-09 10:10:12,942 - INFO - 'Pembinaan dan Pengawasan Terhadap Usaha dan/atau Kegiatan yang Izin Lingkungan dan Izin PPLH Diterbitkan oleh Pemerintah Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,942 - INFO - 'Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Kabupaten/Kota' muncul 12 kali
+2025-09-09 10:10:12,942 - INFO - 'Pembinaan dan Evaluasi terhadap Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Kabupaten/ Kota' muncul 12 kali
+2025-09-09 10:10:12,942 - INFO - 'Peningkatan Kapasitas MHA dan Kearifan Lokal, Pengetahuan Tradisional dan Hak MHA yang Terkait dengan PPLH' muncul 4 kali
+2025-09-09 10:10:12,942 - INFO - 'Penyelenggaraan Pendidikan, Pelatihan, dan Penyuluhan Lingkungan Hidup untuk Lembaga Kemasyarakatan Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,942 - INFO - 'Pemberian Penghargaan Lingkungan Hidup Tingkat Daerah Kabupaten/Kota ' muncul 4 kali
+2025-09-09 10:10:12,942 - INFO - 'Penyelesaian Pengaduan Masyarakat di Bidang Perlindungan dan Pengelolaan Lingkungan Hidup (PPLH) Provinsi' muncul 2 kali
+2025-09-09 10:10:12,942 - INFO - 'Penyelesaian Pengaduan Masyarakat di Bidang Perlindungan dan Pengelolaan Lingkungan Hidup (PPLH) Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,942 - INFO - 'Penanganan Sampah di TPA/TPST Regional' muncul 2 kali
+2025-09-09 10:10:12,942 - INFO - 'Pengelolaan Sampah' muncul 4 kali
+2025-09-09 10:10:12,944 - INFO - 'Penerbitan Izin Pendaurulangan Sampah/Pengelolaan Sampah, Pengangkutan Sampah dan Pemrosesan Akhir Sampah yang Diselenggarakan oleh Swasta' muncul 4 kali
+2025-09-09 10:10:12,944 - INFO - 'Pembinaan dan Pengawasan Pengelolaan Sampah yang Diselenggarakan oleh Pihak Swasta' muncul 4 kali
+2025-09-09 10:10:12,944 - INFO - 'Pemberdayaan Lembaga keMasyarakatan yang Bergerak di Bidang Pemberdayaan Desa dan Lembaga Adat Tingkat Daerah Provinsi serta Pemberdayaan Masyarakat Hukum Adat yang Masyarakat Pelakunya Hukum Adat yang Sama Berada di Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,944 - INFO - 'Pemberdayaan Masyarakat Kampung' muncul 8 kali
+2025-09-09 10:10:12,944 - INFO - 'Pemberdayaan Masyarakat Kampung dalam Satu Wilayah Kabupaten/Kota' muncul 8 kali
+2025-09-09 10:10:12,944 - INFO - 'Pemetaan Perkiraan Pengendalian Penduduk Cakupan Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,944 - INFO - 'Pemetaan Perkiraan Pengendalian Penduduk Cakupan Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,944 - INFO - 'Pelaksanaan Pembangunan Keluarga Melalui Pembinaan Ketahanan dan Kesejahteraan Keluarga' muncul 4 kali
+2025-09-09 10:10:12,944 - INFO - 'Penyediaan Perlengkapan Jalan di Jalan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,944 - INFO - 'Pelaksanaan Manajemen dan Rekayasa Lalu Lintas untuk Jaringan Jalan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,944 - INFO - 'Persetujuan Hasil Analisis Dampak Lalu Lintas (Andalalin) untuk Jalan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,945 - INFO - 'Penetapan Kawasan Perkotaan untuk Pelayanan Angkutan Perkotaan yang Melampaui Batas 1 (satu) Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,945 - INFO - 'Penyediaan Perlengkapan Jalan di Jalan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,945 - INFO - 'Penerbitan Izin Penyelenggaraan dan Pembangunan Fasilitas Parkir' muncul 4 kali
+2025-09-09 10:10:12,945 - INFO - 'Audit dan Inspeksi Keselamatan LLAJ di Jalan' muncul 4 kali
+2025-09-09 10:10:12,945 - INFO - 'Penerbitan Izin Usaha Angkutan Laut bagi Badan Usaha yang Berdomisili dalam Wilayah dan Beroperasi pada Lintas Pelabuhan antar Daerah Kabupaten/Kota dalam Wilayah Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,945 - INFO - 'Penerbitan Izin Usaha Angkutan Laut Pelayaran Rakyat bagi Orang Perorangan atau Badan Usaha yang Berdomisili dan yang Beroperasi pada Lintas Pelabuhan antar Daerah Kabupaten/Kota dalam Daerah Provinsi, Pelabuhan antar Daerah Provinsi, dan Pelabuhan Internasional' muncul 2 kali
+2025-09-09 10:10:12,945 - INFO - 'Penerbitan Izin Usaha Jasa Terkait Berupa Bongkar Muat Barang, Jasa Pengurusan Transportasi, Angkutan Perairan Pelabuhan, Penyewaan Peralatan Angkutan Laut atau Peralatan Jasa Terkait Dengan Angkutan Laut, Tally Mandiri, dan Depo Peti Kemas' muncul 2 kali
+2025-09-09 10:10:12,945 - INFO - 'Penetapan Rencana Induk dan Daerah Lingkungan Kerja (DLKR)/Daerah Lingkungan Kepentingan (DLKP) Pelabuhan Pengumpan Regional' muncul 2 kali
+2025-09-09 10:10:12,945 - INFO - 'Pembangunan, Penerbitan Izin Pembangunan dan Pengoperasian Pelabuhan Pengumpan Regional' muncul 2 kali
+2025-09-09 10:10:12,946 - INFO - 'Pembangunan dan Penerbitan Izin Pelabuhan Sungai dan Danau yang Melayani Trayek Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,946 - INFO - 'Penerbitan Izin Usaha untuk Badan Usaha Pelabuhan di Pelabuhan Pengumpan Regional' muncul 2 kali
+2025-09-09 10:10:12,946 - INFO - 'Penerbitan Izin Pengembangan Pelabuhan untuk Pelabuhan Pengumpan Regional' muncul 2 kali
+2025-09-09 10:10:12,946 - INFO - 'Penerbitan Izin Pengoperasian Pelabuhan Selama 24 Jam untuk Pelabuhan Pengumpan Regional' muncul 2 kali
+2025-09-09 10:10:12,946 - INFO - 'Penerbitan Izin Pekerjaan Pengerukan di Wilayah Perairan Pelabuhan Pengumpan Regional' muncul 2 kali
+2025-09-09 10:10:12,946 - INFO - 'Penerbitan Izin Reklamasi di Wilayah Perairan Pelabuhan Pengumpan Regional' muncul 2 kali
+2025-09-09 10:10:12,946 - INFO - 'Penerbitan Izin Pengelolaan Terminal untuk Kepentingan Sendiri (TUKS) di dalam DLKR/DLKP Pelabuhan Pengumpan Regional' muncul 2 kali
+2025-09-09 10:10:12,946 - INFO - 'Penerbitan Izin Usaha Angkutan Laut bagi Badan Usaha yang Berdomisili dalam Daerah Kabupaten/Kota dan Beroperasi pada Lintas Pelabuhan di Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,947 - INFO - 'Penerbitan Izin Usaha Angkutan Laut Pelayaran Rakyat bagi Orang Perorangan atau Badan Usaha yang Berdomisili dan yang Beroperasi pada Lintas Pelabuhan dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,947 - INFO - 'Penerbitan Izin Usaha Jasa terkait dengan Perawatan dan Perbaikan Kapal' muncul 4 kali
+2025-09-09 10:10:12,947 - INFO - 'Penetapan Rencana Induk dan Daerah Lingkungan Kerja (DLKR)/Daerah Lingkungan Kepentingan (DLKP) Pelabuhan Pengumpan Lokal' muncul 4 kali
+2025-09-09 10:10:12,947 - INFO - 'Pembangunan, Penerbitan Izin Pembangunan dan Pengoperasian Pelabuhan Pengumpan Lokal' muncul 4 kali
+2025-09-09 10:10:12,947 - INFO - 'Penerbitan Izin Pengembangan Pelabuhan untuk Pelabuhan Pengumpan Lokal' muncul 4 kali
+2025-09-09 10:10:12,947 - INFO - 'Penerbitan Izin Pengoperasian Pelabuhan Selama 24 Jam untuk Pelabuhan Pengumpan Lokal' muncul 4 kali
+2025-09-09 10:10:12,947 - INFO - 'Penerbitan Izin Pekerjaan Pengerukan di Wilayah Perairan Pelabuhan Pengumpan Lokal' muncul 4 kali
+2025-09-09 10:10:12,947 - INFO - 'Penerbitan Izin Reklamasi di Wilayah Perairan Pelabuhan Pengumpan Lokal' muncul 4 kali
+2025-09-09 10:10:12,948 - INFO - 'Penyediaan Sarana dan Prasarana serta Pengelolaan Transportasi' muncul 8 kali
+2025-09-09 10:10:12,948 - INFO - 'Pembangunan Bandar Udara' muncul 8 kali
+2025-09-09 10:10:12,948 - INFO - 'Penyusunan Dokumen Perencanaan Bidang Penerbangan' muncul 8 kali
+2025-09-09 10:10:12,948 - INFO - 'Penyelenggaraan pelayanan jasa kebandarudaraan' muncul 8 kali
+2025-09-09 10:10:12,948 - INFO - 'Penetapan Rencana Induk Perkeretaapian' muncul 6 kali
+2025-09-09 10:10:12,948 - INFO - 'Penerbitan Izin Usaha, Izin Pembangunan dan Izin Operasi Prasarana Perkeretaapian Umum yang Jaringan Jalurnya Melintasi Batas Daerah' muncul 2 kali
+2025-09-09 10:10:12,948 - INFO - 'Penetapan Kelas Stasiun untuk Stasiun pada Jaringan Jalur Kereta Api Provinsi' muncul 2 kali
+2025-09-09 10:10:12,949 - INFO - 'Penerbitan Izin Operasi Sarana Perkeretaapian Umum yang Jaringan Jalurnya Melintasi Batas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,949 - INFO - 'Penerbitan Izin Pengadaan atau Pembangunan Perkeretaapian Khusus, Izin Operasi, dan Penetapan Jalur Kereta Api Khusus yang Jaringannya Melebihi 1 (satu) Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,949 - INFO - 'Pengelolaan Informasi dan Komunikasi Publik Pemerintah Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,949 - INFO - 'Pengelolaan Informasi dan Komunikasi Publik Pemerintah Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,949 - INFO - 'Pengelolaan Nama Domain yang Telah ditetapkan oleh Pemerintah Pusat dan Sub Domain di Lingkup Pemerintah Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,949 - INFO - 'Pengelolaan E-government di Lingkup Pemerintah Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,949 - INFO - 'Pengelolaan Nama Domain yang Telah Ditetapkan oleh Pemerintah Pusat dan Sub Domain di Lingkup Pemerintah Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,950 - INFO - 'Pengelolaan E-government di Lingkup Pemerintah Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,950 - INFO - 'Penetapan Pemberian Fasilitas/Insentif Dibidang Penanaman Modal yang Menjadi Kewenangan Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,950 - INFO - 'Penyadaran, Pemberdayaan, dan Pengembangan Pemuda dan Kepemudaan Terhadap Pemuda Pelopor Kabupaten/Kota, Wirausaha Muda Pemula, dan Pemuda Kader Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,950 - INFO - 'Pemberdayaan dan Pengembangan Organisasi Kepemudaan Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,950 - INFO - 'Pembinaan dan Pengembangan Olahraga Pendidikan pada Jenjang Pendidikan yang Menjadi Kewenangan Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,950 - INFO - 'Penyelenggaraan Kejuaraan Olahraga Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,950 - INFO - 'Pembinaan dan Pengembangan Olahraga Prestasi Tingkat Daerah Provinsi' muncul 4 kali
+2025-09-09 10:10:12,950 - INFO - 'Pembinaan dan Pengembangan Organisasi Olahraga' muncul 4 kali
+2025-09-09 10:10:12,951 - INFO - 'Pembinaan dan Pengembangan Olahraga Rekreasi' muncul 4 kali
+2025-09-09 10:10:12,951 - INFO - 'Penyelenggaraan Persandian untuk Pengamanan Informasi Pemerintah Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,951 - INFO - 'Penetapan Pola Hubungan Komunikasi Sandi antar Perangkat Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,951 - INFO - 'Penyelenggaraan Persandian untuk Pengamanan Informasi Pemerintah Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,951 - INFO - 'Penetapan Pola Hubungan Komunikasi Sandi Antar Perangkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,951 - INFO - 'Pengelolaan Kebudayaan yang Masyarakat Pelakunya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,951 - INFO - 'Pelestarian Kesenian Tradisional yang Masyarakat Pelakunya Lintas Kabupaten/Kota dalam Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,952 - INFO - 'Pembinaan Lembaga Adat yang Penganutnya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,952 - INFO - 'Pengelolaan Kebudayaan yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota' muncul 16 kali
+2025-09-09 10:10:12,952 - INFO - 'Pelestarian Kesenian Tradisional yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,952 - INFO - 'Pembinaan Lembaga Adat yang Penganutnya dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,952 - INFO - 'Pengelolaan Kebudayaan yang Masyarakat Pelakunya Lintas Daerah Kabupaten/Kota dalam1 (satu) Daerah Provinsi' muncul 12 kali
+2025-09-09 10:10:12,952 - INFO - 'Pembinaan Kesenian yang Masyarakat Pelakunya Lintas Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,952 - INFO - 'Pembinaan Kesenian yang Masyarakat Pelakunya dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,952 - INFO - 'Pembinaan Sejarah Lokal Provinsi' muncul 2 kali
+2025-09-09 10:10:12,952 - INFO - 'Pembinaan Sejarah Lokal dalam 1 (Satu) Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,952 - INFO - 'Penetapan Cagar Budaya Peringkat Provinsi' muncul 14 kali
+2025-09-09 10:10:12,954 - INFO - 'Pengelolaan Cagar Budaya Peringkat Provinsi' muncul 14 kali
+2025-09-09 10:10:12,954 - INFO - 'Penerbitan Izin Membawa Cagar Budaya Ke Luar Daerah Provinsi' muncul 14 kali
+2025-09-09 10:10:12,954 - INFO - 'Penetapan Cagar Budaya Peringkat Kabupaten/Kota' muncul 16 kali
+2025-09-09 10:10:12,954 - INFO - 'Pengelolaan Cagar Budaya Peringkat Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,954 - INFO - 'Penerbitan Izin Membawa Cagar Budaya ke Luar Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,954 - INFO - 'Pelestarian Kesenian Tradisional yangMasyarakat Pelakunya dalam DaerahKabupaten/Kota' muncul 12 kali
+2025-09-09 10:10:12,954 - INFO - 'Penetapan Sistem Zonasi' muncul 24 kali
+2025-09-09 10:10:12,954 - INFO - 'Pengelolaan Museum Provinsi' muncul 2 kali
+2025-09-09 10:10:12,954 - INFO - 'Pengelolaan Museum Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,954 - INFO - 'Pelestarian dan Pembinaan Adat Istiadat' muncul 4 kali
+2025-09-09 10:10:12,955 - INFO - 'Pembinaan dan Pengembangan Hukum Adat' muncul 4 kali
+2025-09-09 10:10:12,955 - INFO - 'Pembinaan Lembaga Adat dan Tokoh Adat' muncul 4 kali
+2025-09-09 10:10:12,955 - INFO - 'Sejarah, Bahasa, Sastra dan Permuseuman' muncul 4 kali
+2025-09-09 10:10:12,955 - INFO - 'Pelestarian Cagar Budaya dan Warisan Budaya' muncul 4 kali
+2025-09-09 10:10:12,955 - INFO - 'Perlindungan dan Konservasi Arsip Kraton dan Kadipaten' muncul 2 kali
+2025-09-09 10:10:12,956 - INFO - 'Penguatan Museum Sonobudoyo' muncul 2 kali
+2025-09-09 10:10:12,956 - INFO - 'Pengelolaan Taman Budaya' muncul 4 kali
+2025-09-09 10:10:12,956 - INFO - 'Sarana Prasarana Keistimewaan Urusan Kebudayaan ' muncul 2 kali
+2025-09-09 10:10:12,956 - INFO - 'Perencanaan dan Pengendalian Urusan Kebudayaan' muncul 4 kali
+2025-09-09 10:10:12,956 - INFO - 'Pengembangan Kearifan Lokal dan Potensi Budaya' muncul 4 kali
+2025-09-09 10:10:12,956 - INFO - 'Sarana Prasarana Keistimewaan Urusan Kebudayaan' muncul 2 kali
+2025-09-09 10:10:12,956 - INFO - 'Adat, Seni, Tradisi dan Lembaga Budaya' muncul 4 kali
+2025-09-09 10:10:12,957 - INFO - 'Pendidikan Berbasis Budaya' muncul 2 kali
+2025-09-09 10:10:12,957 - INFO - 'Pembinaan Kelembagaan Desa Adat' muncul 2 kali
+2025-09-09 10:10:12,957 - INFO - 'Pembinaan Tata Kelola Perekonomian Desa Adat' muncul 2 kali
+2025-09-09 10:10:12,957 - INFO - 'Penyelenggaraan Desa Adat' muncul 2 kali
+2025-09-09 10:10:12,957 - INFO - 'Pembinaan Sumber Daya Manusia' muncul 2 kali
+2025-09-09 10:10:12,957 - INFO - 'Pendukungan Ekositem Perfilman Daerah di Provinsi' muncul 12 kali
+2025-09-09 10:10:12,957 - INFO - 'Pendukungan Ekositem Perfilman Daerah di Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,958 - INFO - 'Pengelolaan Perpustakaan Tingkat Daerah Provinsi ' muncul 2 kali
+2025-09-09 10:10:12,958 - INFO - 'Pembudayaan Gemar Membaca Tingkat Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,958 - INFO - 'Pengelolaan Perpustakaan Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,958 - INFO - 'Pembudayaan Gemar Membaca Tingkat Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,958 - INFO - 'Pelestarian Karya Cetak dan Karya Rekam Koleksi Daerah di Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,958 - INFO - 'Penerbitan Katalog Induk Daerah dan Bibliografi Daerah' muncul 2 kali
+2025-09-09 10:10:12,958 - INFO - 'Pelestarian Naskah Kuno Milik Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,958 - INFO - 'Pengembangan Koleksi Budaya Etnis Nusantara yang ditemukan oleh Pemerintah Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,958 - INFO - 'Pelestarian Naskah Kuno Milik Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,959 - INFO - 'Pengelolaan Arsip Dinamis Provinsi' muncul 2 kali
+2025-09-09 10:10:12,959 - INFO - 'Pengelolaan Arsip Statis Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,959 - INFO - 'Pengelolaan Arsip Dinamis Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,959 - INFO - 'Pengelolaan Arsip Statis Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,959 - INFO - 'Pemusnahan Arsip dilingkungan Pemerintah Daerah Provinsi yang Memiliki Retensi di Bawah 10 Tahun' muncul 2 kali
+2025-09-09 10:10:12,959 - INFO - 'Perlindungan dan Penyelamatan Arsip Akibat Bencana yang Berskala Provinsi' muncul 2 kali
+2025-09-09 10:10:12,959 - INFO - 'Penyelamatan Arsip Perangkat Daerah Provinsi yang digabung dan/atau dibubarkan, dan Pemekaran Daerah Kabupaten/Kota' muncul 2 kali
+2025-09-09 10:10:12,959 - INFO - 'Autentifikasi Arsip Statis dan Arsip Hasil Alih Media yang Dikelola oleh Lembaga Kearsipan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,960 - INFO - 'Pencarian Arsip Statis Provinsi yang Dinyatakan Hilang' muncul 2 kali
+2025-09-09 10:10:12,960 - INFO - 'Pemusnahan Arsip Dilingkungan Pemerintah Daerah Kabupaten/Kota yang Memiliki Retensi di Bawah 10 (Sepuluh) Tahun' muncul 4 kali
+2025-09-09 10:10:12,960 - INFO - 'Pelayanan Izin Penggunaan Arsip yang Bersifat Tertutup di Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,960 - INFO - 'Pelayanan Izin Penggunaan Arsip yang Bersifat Tertutup di Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,960 - INFO - 'Pengelolaan Penangkapan Ikan di Wilayah Laut Sampai Dengan 12 Mil' muncul 2 kali
+2025-09-09 10:10:12,960 - INFO - 'Penerbitan Izin Usaha Perikanan Tangkap untuk Kapal Perikanan Berukuran di atas 10 GT sampai dengan 30 GT' muncul 2 kali
+2025-09-09 10:10:12,960 - INFO - 'Pengelolaan Pembudidayaan Ikan di Laut' muncul 2 kali
+2025-09-09 10:10:12,960 - INFO - 'Penerbitan Tanda Daftar bagi Pembudi Daya Ikan Kecil (TDPIK) dalam 1 (Satu) Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,960 - INFO - 'Penyediaan dan Penyaluran Bahan Baku Industri Pengolahan Ikan Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,961 - INFO - 'Penerbitan Tanda Daftar Usaha Pengolahan Hasil Perikanan bagi Usaha Skala Mikro dan Kecil' muncul 4 kali
+2025-09-09 10:10:12,961 - INFO - 'Pengelolaan Destinasi Pariwisata Provinsi' muncul 2 kali
+2025-09-09 10:10:12,961 - INFO - 'Penetapan Tanda Daftar Usaha Pariwisata Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,961 - INFO - 'Pengelolaan Kawasan Strategis Pariwisata Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,961 - INFO - 'Pengelolaan Destinasi Pariwisata Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,961 - INFO - 'Penetapan Tanda Daftar Usaha Pariwisata Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,962 - INFO - 'Penetapan rencana induk pariwisata di wilayah provinsi' muncul 12 kali
+2025-09-09 10:10:12,962 - INFO - 'Penetapan rencana induk pariwisata di Kabupaten/Kota' muncul 12 kali
+2025-09-09 10:10:12,962 - INFO - 'Pemasaran Pariwisata Dalam dan Luar Negeri Daya Tarik, Destinasi dan Kawasan Strategis Pariwisata Provinsi' muncul 12 kali
+2025-09-09 10:10:12,962 - INFO - 'Pemasaran Pariwisata Dalam dan Luar Negeri Daya Tarik, Destinasi dan Kawasan Strategis Pariwisata Kabupaten/Kota' muncul 12 kali
+2025-09-09 10:10:12,962 - INFO - 'Penyediaan Sarana dan Prasarana Kota Kreatif' muncul 2 kali
+2025-09-09 10:10:12,962 - INFO - 'Pengembangan Ekosistem Ekonomi Kreatif ' muncul 6 kali
+2025-09-09 10:10:12,962 - INFO - 'Pelaksanaan Peningkatan Kapasitas Sumber Daya Manusia Pariwisata dan Ekonomi Kreatif Tingkat Lanjutan' muncul 2 kali
+2025-09-09 10:10:12,962 - INFO - 'Pengembangan Kapasitas Pelaku Ekonomi Kreatif' muncul 2 kali
+2025-09-09 10:10:12,962 - INFO - 'Pengawasan Peredaran Sarana Pertanian' muncul 2 kali
+2025-09-09 10:10:12,962 - INFO - 'Pengawasan Mutu, Penyediaan dan Peredaran Benih Tanaman' muncul 2 kali
+2025-09-09 10:10:12,962 - INFO - 'Pengelolaan Sumber Daya Genetik (SDG) Hewan, Tumbuhan, dan Mikro Organisme Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Peningkatan Ketersediaan dan Mutu Benih/Bibit Ternak dan Tanaman Pakan Ternak, Bahan Pakan, serta Pakan Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Pengawasan Peredaran Obat Hewan di Tingkat Distributor' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Pengelolaan Sumber Daya Genetik (SDG) Hewan, Tumbuhan, dan Mikro Organisme Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,964 - INFO - 'Pengawasan Obat Hewan di Tingkat Pengecer' muncul 4 kali
+2025-09-09 10:10:12,964 - INFO - 'Pengendalian dan Pengawasan Penyediaan dan Peredaran Benih/Bibit Ternak, dan Hijauan Pakan Ternak dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,964 - INFO - 'Penataan Prasarana Pertanian' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Pembangunan Prasarana Pertanian' muncul 4 kali
+2025-09-09 10:10:12,964 - INFO - 'Pengembangan Lahan Penggembalaan Umum' muncul 4 kali
+2025-09-09 10:10:12,964 - INFO - 'Penjaminan Kesehatan Hewan, Penutupan dan Pembukaan Daerah Wabah Penyakit Hewan Menular Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Pengawasan Pemasukan dan Pengeluaran Hewan dan Produk Hewan Lintas Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Penerapan Persyaratan Teknis Sertifikasi Zona/Kompartemen Bebas Penyakit dan Unit Usaha Produk Hewan' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Sertifikasi Persyaratan Teknis Kesehatan Masyarakat Veteriner ' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Kesejahteraan Hewan' muncul 2 kali
+2025-09-09 10:10:12,964 - INFO - 'Penjaminan Kesehatan Hewan, Penutupan dan Pembukaan Daerah Wabah Penyakit Hewan Menular Dalam daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,965 - INFO - 'Pengawasan Pemasukan dan Pengeluaran Hewan dan Produk Hewan Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,965 - INFO - 'Pengelolaan Pelayanan Jasa Laboratorium dan Jasa Medik Veteriner dalam Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,965 - INFO - 'Penerapan dan Pengawasan Persyaratan Teknis Kesehatan Masyarakat Veteriner' muncul 4 kali
+2025-09-09 10:10:12,965 - INFO - 'Penerapan dan Pengawasan Persyaratan Teknis Kesejahteraan Hewan' muncul 4 kali
+2025-09-09 10:10:12,965 - INFO - 'Pengendalian dan Penanggulangan Bencana Pertanian Provinsi' muncul 2 kali
+2025-09-09 10:10:12,965 - INFO - 'Pengendalian dan Penanggulangan Bencana Pertanian Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,965 - INFO - 'Penerbitan Izin Usaha Pertanian yang Kegiatan Usahanya dalam Daerah Kabupaten/Kota' muncul 6 kali
+2025-09-09 10:10:12,965 - INFO - 'Penerbitan Izin Pembangunan Laboratorium Kesehatan Hewan dan Kesehatan Masyarakat Veteriner di Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,966 - INFO - 'Penerbitan Izin Usaha Pengecer (Toko, Retail, Sub Distributor) Obat Hewan' muncul 2 kali
+2025-09-09 10:10:12,966 - INFO - 'Penerbitan Izin Usaha Produksi Benih/Bibit Ternak dan Pakan, Fasilitas Pemeliharaan Hewan, Rumah Sakit Hewan/Pasar Hewan, Rumah Potong Hewan' muncul 4 kali
+2025-09-09 10:10:12,966 - INFO - 'Izin Usaha Pengecer (Toko, Retail, Sub Distributor) Obat Hewan ' muncul 4 kali
+2025-09-09 10:10:12,966 - INFO - 'Pelaksanaan Penyuluhan Pertanian' muncul 4 kali
+2025-09-09 10:10:12,966 - INFO - 'Penyelenggaraan Inventarisasi Hutan Tingkat Provinsi' muncul 12 kali
+2025-09-09 10:10:12,966 - INFO - 'Inventarisasi Hutan Tingkat DAS yang wilayahnya di dalam Provinsi Papua' muncul 8 kali
+2025-09-09 10:10:12,966 - INFO - 'Inventarisasi Hutan Tingkat Unit Pengelolaan Hutan dan dilaksanakan oleh KPH' muncul 12 kali
+2025-09-09 10:10:12,966 - INFO - 'Pembentukan wilayah pengelolaan hutan lindung' muncul 12 kali
+2025-09-09 10:10:12,966 - INFO - 'Penyusunan Rencana Kehutanan Tingkat Provinsi' muncul 12 kali
+2025-09-09 10:10:12,967 - INFO - 'Inventarisasi Hutan Tingkat DAS yang wilayahnya di dalam Provinsi Papua Barat' muncul 4 kali
+2025-09-09 10:10:12,967 - INFO - 'Pengelolaan Rencana Tata Hutan Kesatuan Pengelolaan Hutan (KPH) Kewenangan Provinsi' muncul 2 kali
+2025-09-09 10:10:12,967 - INFO - 'Rencana Pengelolaan Kesatuan Pengelolaan Hutan kecuali pada Kesatuan Pengelolaan Hutan Konservasi (KPHK)' muncul 2 kali
+2025-09-09 10:10:12,967 - INFO - 'Pemanfaatan Hutan di Kawasan Hutan Produksi dan Hutan Lindung' muncul 2 kali
+2025-09-09 10:10:12,967 - INFO - 'Pelaksanaan Rehabilitasi di Luar Kawasan Hutan Negara' muncul 2 kali
+2025-09-09 10:10:12,967 - INFO - 'Pelaksanaan Perlindungan Hutan di Hutan Lindung dan Hutan Produksi' muncul 2 kali
+2025-09-09 10:10:12,967 - INFO - 'Pelaksanaan Pengolahan Hasil Hutan Bukan Kayu (HHBK)' muncul 2 kali
+2025-09-09 10:10:12,967 - INFO - 'Pelaksanaan Pengolahan Hasil Hutan Kayu dengan Kapasitas Produksi <6000 m3/Tahun' muncul 2 kali
+2025-09-09 10:10:12,967 - INFO - 'Pelaksanaan Pengelolaan KHDTK untuk Kepentingan Religi' muncul 2 kali
+2025-09-09 10:10:12,967 - INFO - 'Perbenihan Tanaman Hutan' muncul 2 kali
+2025-09-09 10:10:12,968 - INFO - 'Pemanfaatan Kayu pada areal penggunaan lain' muncul 12 kali
+2025-09-09 10:10:12,968 - INFO - 'Pelaksanaan pengelolaan KHDTK untuk kepentingan non - komersial' muncul 12 kali
+2025-09-09 10:10:12,968 - INFO - 'Pelaksanaan Monitoring dan Evaluasi terhadap pemegang persetujuan kawasan hutan' muncul 12 kali
+2025-09-09 10:10:12,968 - INFO - 'Pengelolaan Taman Hutan Raya (TAHURA) Provinsi' muncul 2 kali
+2025-09-09 10:10:12,968 - INFO - 'Perlindungan Tumbuhan dan Satwa Liar yang Tidak Dilindungi dan/atau Tidak Masuk dalam Lampiran (Appendix) CITES (Convension On International Trade In Endangered Species) untuk Kewenangan Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,968 - INFO - 'Pengelolaan Kawasan Bernilai Ekosistem Penting, Daerah Penyangga Kawasan Suaka Alam dan Kawasan Pelestarian Alam' muncul 2 kali
+2025-09-09 10:10:12,968 - INFO - 'Pengelolaan Taman Hutan Raya (TAHURA) Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,969 - INFO - 'Pelaksanaan Penyuluhan Kehutanan Provinsi dan Pemberdayaan Masyarakat di Bidang Kehutanan' muncul 14 kali
+2025-09-09 10:10:12,969 - INFO - 'Pelaksanaan Pengelolaan DAS Lintas Daerah Kabupaten/Kota dan dalam Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,969 - INFO - 'Penetapan dan pengakuan MHA, kearifan lokal atau pengetahuan tradisional dan hak kearifan lokal atau pengetahuan tradisional dan hak MHA terkait dengan PPLH yang berada di daerah kabupaten/kota' muncul 12 kali
+2025-09-09 10:10:12,969 - INFO - 'Penetapan dan pengakuan MHA, kearifan lokal atau pengetahuan tradisional dan hak kearifan lokal atau pengetahuan tradisional dan hak MHA terkait dengan PPLH yang berada di 2 (dua) atau lebih daerah kabupaten/kota dalam 1 (satu) daerah provinsi' muncul 12 kali
+2025-09-09 10:10:12,969 - INFO - 'Peningkatan kapasitas MHA, kearifan lokal atau pengetahuan tradisional dan hak kearifan lokal atau pengetahuan tradisional dan hak MHA terkait dengan PPLH yang berada di daerah kabupaten/kota' muncul 8 kali
+2025-09-09 10:10:12,969 - INFO - 'Peningkatan kapasitas MHA, kearifan lokal atau pengetahuan tradisional dan hak kearifan lokal atau pengetahuan tradisional dan hak MHA terkait dengan PPLH yang berada di 2 (dua) atau lebih daerah kabupaten/kota dalam 1 (satu) daerah provinsi' muncul 12 kali
+2025-09-09 10:10:12,969 - INFO - 'Penetapan pemanfaatan hasil hutan kayu dan non kayu dalam rangka peningkatan kesejahteraan MHA setelah ditetapkannya hutan adat sesuai fungsi kawasan hutan' muncul 12 kali
+2025-09-09 10:10:12,970 - INFO - 'Penguatan Kearifan Lokal dalam Pengelolaan Hutan Adat' muncul 12 kali
+2025-09-09 10:10:12,970 - INFO - 'Penyusunan dan Evaluasi Rencana Pembangunan Industri Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,970 - INFO - 'Penyediaan Informasi Industri untuk IUI, IPUI, IUKI, dan IPKI Kewenangan Provinsi Berbasis Sistem Informasi Industri Nasional (SIINas)' muncul 2 kali
+2025-09-09 10:10:12,970 - INFO - 'Penyediaan Informasi Industri untuk Informasi Industri untuk IUI, IPUI, IUKI dan IPKI Kewenangan Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,970 - INFO - 'Pencadangan Tanah untuk Kawasan Transmigrasi' muncul 6 kali
+2025-09-09 10:10:12,970 - INFO - 'Penataan Persebaran Penduduk yang Berasal dari Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi' muncul 2 kali
+2025-09-09 10:10:12,970 - INFO - 'Penataan Persebaran Penduduk yang Berasal dari 1 (Satu) Daerah Kabupaten/Kota' muncul 4 kali
+2025-09-09 10:10:12,970 - INFO - 'Pengembangan Satuan Permukiman pada Tahap Pemantapan' muncul 2 kali
+2025-09-09 10:10:12,970 - INFO - 'Pengembangan Satuan Permukiman pada Tahap Kemandirian' muncul 4 kali
+2025-09-09 10:10:12,971 - INFO - 'Administrasi Tata Pemerintahan' muncul 4 kali
+2025-09-09 10:10:12,971 - INFO - 'Pelaksanaan Otonomi Daerah' muncul 2 kali
+2025-09-09 10:10:12,971 - INFO - 'Penyusunan Perencanaan dan Pendanaan' muncul 6 kali
+2025-09-09 10:10:12,971 - INFO - 'Analisis Data dan Informasi Pemerintahan Daerah Bidang Perencanaan Pembangunan Daerah' muncul 2 kali
+2025-09-09 10:10:12,971 - INFO - 'Pengendalian, Evaluasi dan Pelaporan Bidang Perencanaan Pembangunan Daerah' muncul 6 kali
+2025-09-09 10:10:12,971 - INFO - 'Implementasi Sistem Informasi Pemerintahan Daerah di Bidang Pembangunan Daerah' muncul 6 kali
+2025-09-09 10:10:12,971 - INFO - 'Analisis Data dan Informasi Pemerintahan Daerah Bidang Perencanaan Pembangunan Daerah ' muncul 4 kali
+2025-09-09 10:10:12,972 - INFO - 'Koordinasi Perencanaan Bidang Pemerintahan dan Pembangunan Manusia' muncul 6 kali
+2025-09-09 10:10:12,972 - INFO - 'Koordinasi Perencanaan Bidang Perekonomian dan SDA (Sumber Daya Alam)' muncul 6 kali
+2025-09-09 10:10:12,972 - INFO - 'Koordinasi Perencanaan Bidang Infrastruktur dan Kewilayahan' muncul 6 kali
+2025-09-09 10:10:12,972 - INFO - 'Peningkatan Penyelenggaraan Kota Administrasi' muncul 2 kali
+2025-09-09 10:10:12,972 - INFO - 'Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah' muncul 6 kali
+2025-09-09 10:10:12,972 - INFO - 📊 Total jenis kegiatan duplikat: 450
+2025-09-09 10:10:12,972 - INFO - 📊 Total kemunculan kegiatan duplikat: 2106
+2025-09-09 10:10:12,972 - INFO - ✅ Hasil analisis unik disimpan ke: D:\testing magang\Analisis_isu_PythonFile-main\Output\hasil_analisis_unique.json
+2025-09-09 10:10:12,974 - INFO - ✅ Hasil analisis duplikat disimpan ke: D:\testing magang\Analisis_isu_PythonFile-main\Output\hasil_analisis_duplicate.json
+2025-09-09 10:10:13,081 - INFO - ✅ Hasil analisis unik Excel disimpan ke: D:\testing magang\Analisis_isu_PythonFile-main\Output\hasil_analisis_unique.xlsx
+2025-09-09 10:10:13,133 - INFO - ✅ Hasil analisis duplikat Excel disimpan ke: D:\testing magang\Analisis_isu_PythonFile-main\Output\hasil_analisis_duplicate.xlsx
+2025-09-09 10:10:13,930 - INFO - ✅ Visualisasi disimpan ke: D:\testing magang\Analisis_isu_PythonFile-main\Output\unique_activities_per_theme.png
+2025-09-09 10:10:13,930 - INFO - 🎉 Analisis selesai. Semua hasil ada di folder Output.
+2025-09-09 10:11:26,275 - INFO - ✅ File ./Data/kamus_tema.json berhasil dimuat.
+2025-09-09 10:11:26,284 - INFO - ✅ File ./Data/data_pemda.json berhasil dimuat.
+2025-09-09 10:11:26,284 - INFO - 📌 Daftar Tema yang tersedia:
+2025-09-09 10:11:26,285 - INFO - 1. Ekonomi
+2025-09-09 10:11:26,285 - INFO - 2. SDM
+2025-09-09 10:11:26,285 - INFO - 3. Lingkungan Hidup
+2025-09-09 10:11:26,285 - INFO - 4. Bencana
+2025-09-09 10:11:26,285 - INFO - 5. Infrastruktur dan Utilitas Kota
+2025-09-09 10:11:26,285 - INFO - 6. Kota Cerdas
+2025-09-09 10:11:26,286 - INFO - 7. Citra Kota
+2025-09-09 10:11:26,286 - INFO - 8. Kota Jasa
+2025-09-09 10:11:26,286 - INFO - 9. Tata Kelola Pemerintahan
+2025-09-09 10:11:26,286 - INFO - 10. IKN
+2025-09-09 10:11:26,286 - INFO - 11. Pendidikan
+2025-09-09 10:11:26,286 - INFO - 12. Kesehatan
+2025-09-09 10:11:26,286 - INFO - 13. Lapangan Pekerjaan
+2025-09-09 10:11:26,286 - INFO - 14. Pangan
+2025-09-09 10:11:26,286 - INFO - 15. Teknologi
+2025-09-09 10:11:26,287 - INFO - 16. Sosial Budaya
+2025-09-09 10:11:26,287 - INFO - 17. Ekologi
+2025-09-09 10:11:26,287 - INFO - 18. Kemiskinan
+2025-09-09 10:11:26,287 - INFO - 19. Pemerataan Pembangunan
+2025-09-09 10:11:26,287 - INFO - 20. Revitalisasi Sungai
+2025-09-09 10:11:26,287 - INFO - 21. MICE
+2025-09-09 10:11:26,287 - INFO - 22. Fiskal Daerah
+2025-09-09 10:11:26,287 - INFO - 23. Pemukiman
+2025-09-09 10:11:26,287 - INFO - 24. Penataan Ruang
+2025-09-09 10:11:26,288 - INFO - 25. Transportasi
+2025-09-09 10:11:26,288 - INFO - 26. Iklim Global
+2025-09-09 10:11:26,288 - INFO - 27. Pariwisata
+2025-09-09 10:11:26,288 - INFO - 28. Kebijakan Daerah
+2025-09-09 10:11:26,288 - INFO - 29. SDA
+2025-09-09 10:11:26,288 - INFO - 30. Megatrend Global
+2025-09-09 10:11:26,288 - INFO - 31. Urbanisasi
+2025-09-09 10:11:26,288 - INFO - 32. Transformasi Digital
+2025-09-09 10:11:26,288 - INFO - 33. Geopolitik global
+2025-09-09 10:11:26,288 - INFO - 34. Produktivitas Nasional
+2025-09-09 10:11:26,289 - INFO - 35. Kesejahteraan Masyarakat
+2025-09-09 10:11:26,289 - INFO - 36. Sarana Prasarana
+2025-09-09 10:11:26,289 - INFO - 37. Sampah
+2025-09-09 10:11:26,289 - INFO - 38. Sanitasi
+2025-09-09 10:11:26,289 - INFO - 39. Perkotaan
+2025-09-09 10:11:26,289 - INFO - 40. MKM
+2025-09-09 10:11:26,289 - INFO - 41. Pengangguran
+2025-09-09 10:11:26,289 - INFO - 42. Pertanian
+2025-09-09 10:11:26,289 - INFO - 43. Industrialisasi
+2025-09-09 10:11:26,290 - INFO - 44. Pelayanan Publik
+2025-09-09 10:11:26,290 - INFO - 45. Air bersih
+2025-09-09 10:11:26,290 - INFO - 46. Energi terbarukan
+2025-09-09 10:11:26,290 - INFO - 47. Keamanan
+2025-09-09 10:11:26,290 - INFO - 48. Agama
+2025-09-09 10:11:26,290 - INFO - 49. Hukum dan HAM
+2025-09-09 10:11:26,290 - INFO - 50. Wilayah
+2025-09-09 10:11:26,290 - INFO - 51. Tenaga Kerja Asing
+2025-09-09 10:11:26,290 - INFO - 52. Stunting
+2025-09-09 10:11:26,291 - INFO - 53. Birokrasi
+2025-09-09 10:11:26,291 - INFO - 54. Sustainable Development Goals (SDG's)
+2025-09-09 10:11:26,291 - INFO - 55. Gender
+2025-09-09 10:11:26,291 - INFO - 56. Hak Anak
+2025-09-09 10:11:26,291 - INFO - 57. Narkoba
+2025-09-09 10:11:26,291 - INFO - 58. LGBT
+2025-09-09 10:11:26,291 - INFO - 59. Minuman Keras
+2025-09-09 10:11:26,292 - INFO - 60. Judi Online
+2025-09-09 10:11:30,488 - INFO - 📝 Tema dipilih: Ekonomi
+2025-09-09 10:11:30,495 - INFO - 📂 Hasil analisis tersimpan di ./Output/hasil_tema_Ekonomi.json
+2025-09-09 10:11:30,495 - INFO - 📊 Hasil Analisis Penyebaran:
+2025-09-09 10:11:30,497 - INFO - 
+            Nama_Pemda  Skor_Tema
+      KOTA BANJARMASIN          3
+           KOTA SORONG          3
+           KOTA BITUNG          2
+         KOTA JAYAPURA          2
+           KAB. KONAWE          2
+         KOTA BENGKULU          1
+      KOTA BUKITTINGGI          1
+        KOTA SAMARINDA          1
+        KOTA SURAKARTA          1
+         KAB. BANYUMAS          1
+         KAB. BELITUNG          1
+   KOTA BANDAR LAMPUNG          1
+         KOTA SEMARANG          1
+KOTA TANGERANG SELATAN          1
+         KOTA SURABAYA          1
+ KAB. HALMAHERA TENGAH          1
+       KOTA BALIKPAPAN          1
+         KAB. MEMPAWAH          1
+         KOTA DENPASAR          1
+            KOTA AMBON          1
+            KOTA BOGOR          0
+        KOTA GORONTALO          0
+         KAB. MOROWALI          0
+2025-09-09 10:11:30,498 - INFO - 🎉 Analisis selesai.
+2025-09-09 10:13:37,048 - INFO - ✅ File Data\data_klasifikasi.json berhasil dimuat.
+2025-09-09 10:13:37,049 - INFO - 📌 Daftar Tema Tersedia:
+2025-09-09 10:13:37,049 - INFO - 1. ekonomi
+2025-09-09 10:13:37,049 - INFO - 2. geopark
+2025-09-09 10:13:37,049 - INFO - 3. Infrastruktur
+2025-09-09 10:13:40,443 - INFO - 📝 Tema dipilih: ekonomi
+2025-09-09 10:13:40,449 - INFO - 📂 Hasil analisis tema 'ekonomi' disimpan ke: Output\hasil_tema_ekonomi.json
+2025-09-09 10:13:40,449 - INFO - 🎉 Analisis selesai.
+2025-09-09 10:15:57,580 - INFO - ✅ File Data/kamus_tema.json berhasil dimuat.
+2025-09-09 10:15:57,580 - INFO - ✅ File Data/data_pemda.json berhasil dimuat. Jumlah pemda: 23
+2025-09-09 10:15:57,700 - INFO - 📊 KOTA BUKITTINGGI dianalisis. Top tema: [('Iklim Global', 1), ('Minuman Keras', 1)]
+2025-09-09 10:15:58,207 - INFO - 📊 KAB. BELITUNG dianalisis. Top tema: [('Pemerataan Pembangunan', 1), ('Lingkungan Hidup', 1)]
+2025-09-09 10:15:58,732 - INFO - 📊 KOTA BANJARMASIN dianalisis. Top tema: [('Pariwisata', 1)]
+2025-09-09 10:15:58,805 - INFO - 📊 KOTA BALIKPAPAN dianalisis. Top tema: [('Lingkungan Hidup', 1)]
+2025-09-09 10:15:59,033 - INFO - 📊 KAB. MOROWALI dianalisis. Top tema: [('Tata Kelola Pemerintahan', 1), ('Iklim Global', 1)]
+2025-09-09 10:15:59,089 - INFO - 📊 KOTA AMBON dianalisis. Top tema: [('Iklim Global', 1)]
+2025-09-09 10:15:59,144 - INFO - 📊 KOTA JAYAPURA dianalisis. Top tema: [('Urbanisasi', 1)]
+2025-09-09 10:16:01,412 - INFO - 📊 KOTA SORONG dianalisis. Top tema: [('Pertanian', 1), ('Gender', 1)]
+2025-09-09 10:16:01,414 - INFO - 📂 Hasil analisis tersimpan di './Output/hasil_topikutama.json'
+2025-09-09 10:16:01,414 - INFO - 🎉 Analisis selesai.
+2025-09-09 10:17:23,903 - INFO - ✅ File Data\data_pemda.json berhasil dimuat.
+2025-09-09 10:17:23,904 - INFO - 📊 Data berhasil diproses. Jumlah baris: 23
+2025-09-09 10:17:23,907 - INFO - 📂 Tabel HTML berhasil diekspor ke: Output\tabel_pemda.html
+2025-09-09 10:17:23,908 - INFO - 🎉 Proses generate tabel HTML selesai.
