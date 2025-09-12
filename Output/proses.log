@@ -1475,3 +1475,204 @@ KOTA TANGERANG SELATAN          1
 2025-09-09 12:58:48,039 - INFO - ✅ Diambil 159 kegiatan teratas dari total 1032.
 2025-09-09 12:58:48,042 - INFO - 📂 Hasil pruning disimpan di: Output\hasil_pruning_geopark.json
 2025-09-09 12:58:48,042 - INFO - 🎉 Proses pruning selesai.
+2025-09-09 14:58:30,952 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_klasifikasi.json berhasil dimuat.
+2025-09-09 14:58:30,952 - INFO - 📌 Daftar Tema:
+2025-09-09 14:58:30,952 - INFO - 1. ekonomi
+2025-09-09 14:58:30,952 - INFO - 2. geopark
+2025-09-09 14:58:30,952 - INFO - 3. Infrastruktur
+2025-09-09 14:58:44,582 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_klasifikasi.json berhasil dimuat.
+2025-09-09 14:58:44,582 - INFO - 📌 Daftar Tema:
+2025-09-09 14:58:44,583 - INFO - 1. ekonomi
+2025-09-09 14:58:44,583 - INFO - 2. geopark
+2025-09-09 14:58:44,583 - INFO - 3. Infrastruktur
+2025-09-09 14:58:57,958 - INFO - 📝 Tema dipilih: ekonomi
+2025-09-09 14:58:57,958 - INFO - 
+🔧 Pilih mode pruning:
+2025-09-09 14:58:57,958 - INFO - 1. Hapus duplikat kegiatan
+2025-09-09 14:58:57,958 - INFO - 2. Filter berdasarkan keyword
+2025-09-09 14:58:57,958 - INFO - 3. Ambil top-N kegiatan terbanyak
+2025-09-09 14:59:44,769 - INFO - ✅ 582 duplikat dihapus. Total akhir: 450 kegiatan.
+2025-09-09 14:59:44,773 - INFO - 📂 Hasil pruning disimpan di: Output\hasil_pruning_ekonomi.json
+2025-09-09 14:59:44,773 - INFO - 🎉 Proses pruning selesai.
+2025-09-09 15:05:22,701 - INFO - ✅ File Data/kamus_tema.json berhasil dimuat.
+2025-09-09 15:05:22,710 - INFO - ✅ File Data/data_pemda.json berhasil dimuat. Jumlah pemda: 23
+2025-09-09 15:05:22,836 - INFO - 📊 KOTA BUKITTINGGI dianalisis. Top tema: [('Iklim Global', 1), ('Minuman Keras', 1)]
+2025-09-09 15:05:23,482 - INFO - 📊 KAB. BELITUNG dianalisis. Top tema: [('Pemerataan Pembangunan', 1), ('Lingkungan Hidup', 1)]
+2025-09-09 15:05:24,076 - INFO - 📊 KOTA BANJARMASIN dianalisis. Top tema: [('Pariwisata', 1)]
+2025-09-09 15:05:24,134 - INFO - 📊 KOTA BALIKPAPAN dianalisis. Top tema: [('Lingkungan Hidup', 1)]
+2025-09-09 15:05:24,365 - INFO - 📊 KAB. MOROWALI dianalisis. Top tema: [('Tata Kelola Pemerintahan', 1), ('Iklim Global', 1)]
+2025-09-09 15:05:24,422 - INFO - 📊 KOTA AMBON dianalisis. Top tema: [('Iklim Global', 1)]
+2025-09-09 15:05:24,478 - INFO - 📊 KOTA JAYAPURA dianalisis. Top tema: [('Urbanisasi', 1)]
+2025-09-09 15:05:26,774 - INFO - 📊 KOTA SORONG dianalisis. Top tema: [('Pertanian', 1), ('Gender', 1)]
+2025-09-09 15:05:26,777 - INFO - 📂 Hasil analisis tersimpan di './Output/hasil_topikutama.json'
+2025-09-09 15:05:26,777 - INFO - 🎉 Analisis selesai.
+2025-09-09 15:11:05,825 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_klasifikasi.json berhasil dimuat.
+2025-09-09 15:11:05,825 - INFO - 📌 Daftar Tema:
+2025-09-09 15:11:05,825 - INFO - 1. ekonomi
+2025-09-09 15:11:05,825 - INFO - 2. geopark
+2025-09-09 15:11:05,826 - INFO - 3. Infrastruktur
+2025-09-09 15:11:08,292 - INFO - 📝 Tema dipilih: geopark
+2025-09-09 15:11:08,292 - INFO - 
+🔧 Pilih mode pruning:
+2025-09-09 15:11:08,292 - INFO - 1. Hapus duplikat kegiatan
+2025-09-09 15:11:08,293 - INFO - 2. Filter berdasarkan keyword
+2025-09-09 15:11:08,293 - INFO - 3. Ambil top-N kegiatan terbanyak
+2025-09-09 15:11:16,550 - INFO - ✅ Ditemukan 24 kegiatan dengan keyword 'ekonomi'.
+2025-09-09 15:11:16,551 - INFO - 📂 Hasil pruning disimpan di: Output\hasil_pruning_geopark.json
+2025-09-09 15:11:16,551 - INFO - 🎉 Proses pruning selesai.
+2025-09-12 09:13:58,470 - INFO - ✅ File Data\data_klasifikasi.json berhasil dimuat.
+2025-09-12 09:13:58,471 - INFO - 📌 Daftar Tema Tersedia:
+2025-09-12 09:13:58,471 - INFO - 1. ekonomi
+2025-09-12 09:13:58,471 - INFO - 2. geopark
+2025-09-12 09:13:58,471 - INFO - 3. Infrastruktur
+2025-09-12 09:14:04,138 - INFO - 📝 Tema dipilih: geopark
+2025-09-12 09:14:04,143 - INFO - 📂 Hasil analisis tema 'geopark' disimpan ke: Output\hasil_tema_geopark.json
+2025-09-12 09:14:04,143 - INFO - 🎉 Analisis selesai.
+2025-09-12 09:15:31,159 - INFO - ✅ File Data/kamus_tema.json berhasil dimuat.
+2025-09-12 09:15:31,167 - INFO - ✅ File Data/data_pemda.json berhasil dimuat. Jumlah pemda: 23
+2025-09-12 09:15:31,294 - INFO - 📊 KOTA BUKITTINGGI dianalisis. Top tema: [('Iklim Global', 1), ('Minuman Keras', 1)]
+2025-09-12 09:15:31,802 - INFO - 📊 KAB. BELITUNG dianalisis. Top tema: [('Pemerataan Pembangunan', 1), ('Lingkungan Hidup', 1)]
+2025-09-12 09:15:32,309 - INFO - 📊 KOTA BANJARMASIN dianalisis. Top tema: [('Pariwisata', 1)]
+2025-09-12 09:15:32,365 - INFO - 📊 KOTA BALIKPAPAN dianalisis. Top tema: [('Lingkungan Hidup', 1)]
+2025-09-12 09:15:32,585 - INFO - 📊 KAB. MOROWALI dianalisis. Top tema: [('Tata Kelola Pemerintahan', 1), ('Iklim Global', 1)]
+2025-09-12 09:15:32,639 - INFO - 📊 KOTA AMBON dianalisis. Top tema: [('Iklim Global', 1)]
+2025-09-12 09:15:32,696 - INFO - 📊 KOTA JAYAPURA dianalisis. Top tema: [('Urbanisasi', 1)]
+2025-09-12 09:15:34,930 - INFO - 📊 KOTA SORONG dianalisis. Top tema: [('Pertanian', 1), ('Gender', 1)]
+2025-09-12 09:15:34,932 - INFO - 📂 Hasil analisis tersimpan di './Output/hasil_topikutama.json'
+2025-09-12 09:15:34,933 - INFO - 🎉 Analisis selesai.
+2025-09-12 09:15:41,139 - INFO - ✅ File ./Data/kamus_tema.json berhasil dimuat.
+2025-09-12 09:15:41,140 - INFO - ✅ File ./Data/data_pemda.json berhasil dimuat.
+2025-09-12 09:15:41,140 - INFO - 📌 Daftar Tema yang tersedia:
+2025-09-12 09:15:41,140 - INFO - 1. Ekonomi
+2025-09-12 09:15:41,140 - INFO - 2. SDM
+2025-09-12 09:15:41,140 - INFO - 3. Lingkungan Hidup
+2025-09-12 09:15:41,140 - INFO - 4. Bencana
+2025-09-12 09:15:41,141 - INFO - 5. Infrastruktur dan Utilitas Kota
+2025-09-12 09:15:41,141 - INFO - 6. Kota Cerdas
+2025-09-12 09:15:41,141 - INFO - 7. Citra Kota
+2025-09-12 09:15:41,141 - INFO - 8. Kota Jasa
+2025-09-12 09:15:41,141 - INFO - 9. Tata Kelola Pemerintahan
+2025-09-12 09:15:41,141 - INFO - 10. IKN
+2025-09-12 09:15:41,141 - INFO - 11. Pendidikan
+2025-09-12 09:15:41,142 - INFO - 12. Kesehatan
+2025-09-12 09:15:41,142 - INFO - 13. Lapangan Pekerjaan
+2025-09-12 09:15:41,142 - INFO - 14. Pangan
+2025-09-12 09:15:41,142 - INFO - 15. Teknologi
+2025-09-12 09:15:41,142 - INFO - 16. Sosial Budaya
+2025-09-12 09:15:41,142 - INFO - 17. Ekologi
+2025-09-12 09:15:41,142 - INFO - 18. Kemiskinan
+2025-09-12 09:15:41,142 - INFO - 19. Pemerataan Pembangunan
+2025-09-12 09:15:41,143 - INFO - 20. Revitalisasi Sungai
+2025-09-12 09:15:41,143 - INFO - 21. MICE
+2025-09-12 09:15:41,143 - INFO - 22. Fiskal Daerah
+2025-09-12 09:15:41,143 - INFO - 23. Pemukiman
+2025-09-12 09:15:41,144 - INFO - 24. Penataan Ruang
+2025-09-12 09:15:41,144 - INFO - 25. Transportasi
+2025-09-12 09:15:41,144 - INFO - 26. Iklim Global
+2025-09-12 09:15:41,144 - INFO - 27. Pariwisata
+2025-09-12 09:15:41,144 - INFO - 28. Kebijakan Daerah
+2025-09-12 09:15:41,144 - INFO - 29. SDA
+2025-09-12 09:15:41,144 - INFO - 30. Megatrend Global
+2025-09-12 09:15:41,145 - INFO - 31. Urbanisasi
+2025-09-12 09:15:41,145 - INFO - 32. Transformasi Digital
+2025-09-12 09:15:41,145 - INFO - 33. Geopolitik global
+2025-09-12 09:15:41,145 - INFO - 34. Produktivitas Nasional
+2025-09-12 09:15:41,145 - INFO - 35. Kesejahteraan Masyarakat
+2025-09-12 09:15:41,145 - INFO - 36. Sarana Prasarana
+2025-09-12 09:15:41,145 - INFO - 37. Sampah
+2025-09-12 09:15:41,146 - INFO - 38. Sanitasi
+2025-09-12 09:15:41,146 - INFO - 39. Perkotaan
+2025-09-12 09:15:41,146 - INFO - 40. MKM
+2025-09-12 09:15:41,146 - INFO - 41. Pengangguran
+2025-09-12 09:15:41,146 - INFO - 42. Pertanian
+2025-09-12 09:15:41,146 - INFO - 43. Industrialisasi
+2025-09-12 09:15:41,146 - INFO - 44. Pelayanan Publik
+2025-09-12 09:15:41,147 - INFO - 45. Air bersih
+2025-09-12 09:15:41,147 - INFO - 46. Energi terbarukan
+2025-09-12 09:15:41,147 - INFO - 47. Keamanan
+2025-09-12 09:15:41,147 - INFO - 48. Agama
+2025-09-12 09:15:41,147 - INFO - 49. Hukum dan HAM
+2025-09-12 09:15:41,147 - INFO - 50. Wilayah
+2025-09-12 09:15:41,147 - INFO - 51. Tenaga Kerja Asing
+2025-09-12 09:15:41,148 - INFO - 52. Stunting
+2025-09-12 09:15:41,148 - INFO - 53. Birokrasi
+2025-09-12 09:15:41,148 - INFO - 54. Sustainable Development Goals (SDG's)
+2025-09-12 09:15:41,148 - INFO - 55. Gender
+2025-09-12 09:15:41,148 - INFO - 56. Hak Anak
+2025-09-12 09:15:41,148 - INFO - 57. Narkoba
+2025-09-12 09:15:41,149 - INFO - 58. LGBT
+2025-09-12 09:15:41,149 - INFO - 59. Minuman Keras
+2025-09-12 09:15:41,149 - INFO - 60. Judi Online
+2025-09-12 09:16:11,142 - INFO - 📝 Tema dipilih: Lingkungan Hidup
+2025-09-12 09:16:11,182 - INFO - 📂 Hasil analisis tersimpan di ./Output/hasil_tema_Lingkungan_Hidup.json
+2025-09-12 09:16:11,182 - INFO - 📊 Hasil Analisis Penyebaran:
+2025-09-12 09:16:11,186 - INFO - 
+            Nama_Pemda  Skor_Tema
+           KAB. KONAWE          2
+           KOTA BITUNG          2
+      KOTA BUKITTINGGI          1
+        KOTA SURAKARTA          1
+         KAB. BANYUMAS          1
+   KOTA BANDAR LAMPUNG          1
+         KAB. BELITUNG          1
+ KAB. HALMAHERA TENGAH          1
+         KAB. MOROWALI          1
+         KOTA SURABAYA          1
+         KOTA DENPASAR          1
+       KOTA BALIKPAPAN          1
+         KAB. MEMPAWAH          1
+      KOTA BANJARMASIN          1
+         KOTA BENGKULU          0
+            KOTA BOGOR          0
+        KOTA SAMARINDA          0
+         KOTA SEMARANG          0
+KOTA TANGERANG SELATAN          0
+        KOTA GORONTALO          0
+            KOTA AMBON          0
+         KOTA JAYAPURA          0
+           KOTA SORONG          0
+2025-09-12 09:16:11,187 - INFO - 🎉 Analisis selesai.
+2025-09-12 09:22:56,687 - INFO - ✅ File Data\data_pemda.json berhasil dimuat.
+2025-09-12 09:22:56,687 - INFO - 📊 Total isu terkumpul: 220
+2025-09-12 09:22:56,687 - INFO - 📈 Jumlah kategori isu ditemukan: 220
+2025-09-12 09:22:56,708 - INFO - 📂 Tabel distribusi isu berhasil diekspor ke: Output\distribusi_isu.html
+2025-09-12 09:22:56,709 - INFO - 🎉 Proses analisis distribusi isu selesai.
+2025-09-12 09:25:00,349 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_pemda.json berhasil dimuat.
+2025-09-12 09:25:00,349 - INFO - 📊 Total isu terkumpul: 220
+2025-09-12 09:25:00,349 - INFO - 📈 Jumlah kategori isu ditemukan: 220
+2025-09-12 09:25:00,351 - INFO - 🏆 10 Isu Teratas:
+2025-09-12 09:25:00,353 - INFO -    - 1. peningkatan daya saing sumber daya manusia: 1
+2025-09-12 09:25:00,353 - INFO -    - 2. peningkatan perekonomian masyarakat: 1
+2025-09-12 09:25:00,353 - INFO -    - 3. pemerataan dan peningkatan kualitas infrastruktur perkotaan: 1
+2025-09-12 09:25:00,353 - INFO -    - 4. optimalisasi pengarusutamaan gender serta pemenuhan hak anak dan perempuan: 1
+2025-09-12 09:25:00,353 - INFO -    - 5. pelestarian nilai -nilai budaya daerah: 1
+2025-09-12 09:25:00,353 - INFO -    - 6. reformasi birokrasi: 1
+2025-09-12 09:25:00,353 - INFO -    - 7. pelestarian lingkungan hidup, perubahan iklim, dan penanggulangan bencana: 1
+2025-09-12 09:25:00,353 - INFO -    - 8. pencegahan penyalahgunaan narkoba, lgbt, minuman keras dan judi online: 1
+2025-09-12 09:25:00,353 - INFO -    - 1. pertumbuhan ekonomi inklusif dan berkelanjutan: 1
+2025-09-12 09:25:00,353 - INFO -    - 2. kualitas sdm yang berdaya saing: 1
+2025-09-12 09:25:00,359 - INFO - 📂 Tabel distribusi isu berhasil diekspor ke: Output\distribusi_isu.html
+2025-09-12 09:25:00,359 - INFO - 🎉 Proses analisis distribusi isu selesai.
+2025-09-12 09:25:58,905 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_pemda.json berhasil dimuat.
+2025-09-12 09:25:58,905 - INFO - 📊 Total isu terkumpul: 220
+2025-09-12 09:25:58,905 - INFO - 📈 Jumlah kategori isu ditemukan: 220
+2025-09-12 09:25:58,907 - INFO - 🏆 10 Isu Teratas:
+2025-09-12 09:25:58,907 - INFO -    - 1. peningkatan daya saing sumber daya manusia: 1
+2025-09-12 09:25:58,907 - INFO -    - 2. peningkatan perekonomian masyarakat: 1
+2025-09-12 09:25:58,908 - INFO -    - 3. pemerataan dan peningkatan kualitas infrastruktur perkotaan: 1
+2025-09-12 09:25:58,908 - INFO -    - 4. optimalisasi pengarusutamaan gender serta pemenuhan hak anak dan perempuan: 1
+2025-09-12 09:25:58,908 - INFO -    - 5. pelestarian nilai -nilai budaya daerah: 1
+2025-09-12 09:25:58,908 - INFO -    - 6. reformasi birokrasi: 1
+2025-09-12 09:25:58,908 - INFO -    - 7. pelestarian lingkungan hidup, perubahan iklim, dan penanggulangan bencana: 1
+2025-09-12 09:25:58,908 - INFO -    - 8. pencegahan penyalahgunaan narkoba, lgbt, minuman keras dan judi online: 1
+2025-09-12 09:25:58,908 - INFO -    - 1. pertumbuhan ekonomi inklusif dan berkelanjutan: 1
+2025-09-12 09:25:58,909 - INFO -    - 2. kualitas sdm yang berdaya saing: 1
+2025-09-12 09:25:59,976 - INFO - 📂 Tabel + grafik distribusi isu berhasil diekspor ke: Output\distribusi_isu.html
+2025-09-12 09:25:59,977 - INFO - 🎉 Proses analisis distribusi isu selesai.
+2025-09-12 09:34:16,236 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_pemda.json berhasil dimuat.
+2025-09-12 09:34:16,236 - INFO - 📊 Total isu terkumpul: 220
+2025-09-12 09:34:16,690 - INFO - 📂 Hasil distribusi isu berdasarkan tema disimpan di Output\distribusi_isu.html
+2025-09-12 09:37:30,730 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_pemda.json berhasil dimuat.
+2025-09-12 09:37:30,730 - INFO - 📊 Total isu terkumpul: 220
+2025-09-12 09:37:31,116 - INFO - 📂 Hasil distribusi isu juga disimpan di D:\testing magang\Analisis_isu_PythonFile-main\Output\distribusi_isu.xlsx
+2025-09-12 09:37:31,557 - INFO - 📂 Hasil distribusi isu berdasarkan tema disimpan di D:\testing magang\Analisis_isu_PythonFile-main\Output\distribusi_isu.html
