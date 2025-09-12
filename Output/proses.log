@@ -1676,3 +1676,18 @@ KOTA TANGERANG SELATAN          0
 2025-09-12 09:37:30,730 - INFO - 📊 Total isu terkumpul: 220
 2025-09-12 09:37:31,116 - INFO - 📂 Hasil distribusi isu juga disimpan di D:\testing magang\Analisis_isu_PythonFile-main\Output\distribusi_isu.xlsx
 2025-09-12 09:37:31,557 - INFO - 📂 Hasil distribusi isu berdasarkan tema disimpan di D:\testing magang\Analisis_isu_PythonFile-main\Output\distribusi_isu.html
+2025-09-12 10:18:31,512 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_klasifikasi.json berhasil dimuat.
+2025-09-12 10:18:31,513 - INFO - 📌 Daftar Tema:
+2025-09-12 10:18:31,513 - INFO - 1. ekonomi
+2025-09-12 10:18:31,513 - INFO - 2. geopark
+2025-09-12 10:18:31,513 - INFO - 3. Infrastruktur
+2025-09-12 10:19:04,353 - INFO - 📝 Tema dipilih: ekonomi
+2025-09-12 10:19:04,355 - INFO - 
+🔧 Pilih mode pruning:
+2025-09-12 10:19:04,355 - INFO - 1. Hapus duplikat kegiatan
+2025-09-12 10:19:04,355 - INFO - 2. Filter berdasarkan keyword
+2025-09-12 10:19:04,355 - INFO - 3. Ambil top-N kegiatan terbanyak
+2025-09-12 10:20:16,671 - INFO - ✅ File D:\testing magang\Analisis_isu_PythonFile-main\Data\data_pemda.json berhasil dimuat.
+2025-09-12 10:20:16,671 - INFO - 📊 Total isu terkumpul: 220
+2025-09-12 10:20:17,025 - INFO - 📂 Hasil distribusi isu juga disimpan di D:\testing magang\Analisis_isu_PythonFile-main\Output\distribusi_isu.xlsx
+2025-09-12 10:20:17,687 - INFO - 📂 Hasil distribusi isu berdasarkan tema disimpan di D:\testing magang\Analisis_isu_PythonFile-main\Output\distribusi_isu.html

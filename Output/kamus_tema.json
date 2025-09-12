@@ -1,0 +1,125 @@
+{
+  "allKeywords": [
+    "asn",
+    "bencana",
+    "birokrasi",
+    "budaya",
+    "digital",
+    "drainase",
+    "ekonomi",
+    "hunian",
+    "iklim",
+    "industri",
+    "infrastruktur",
+    "inovasi",
+    "keamanan",
+    "kesehatan",
+    "kota",
+    "lingkungan",
+    "masyarakat",
+    "pariwisata",
+    "pemerintahan",
+    "pemuda",
+    "pendidikan",
+    "regulasi",
+    "sdm",
+    "sosial",
+    "stunting",
+    "teknologi",
+    "transportasi",
+    "umkm"
+  ],
+  "themes": [
+    {
+      "id": "theme-1",
+      "name": "Ekonomi",
+      "keywords": [
+        "ekonomi",
+        "umkm",
+        "industri"
+      ],
+      "color": "#10b981"
+    },
+    {
+      "id": "theme-2",
+      "name": "SDM & Pendidikan",
+      "keywords": [
+        "pendidikan",
+        "sdm",
+        "pemuda"
+      ],
+      "color": "#ef4444"
+    },
+    {
+      "id": "theme-3",
+      "name": "Kesehatan",
+      "keywords": [
+        "kesehatan",
+        "stunting"
+      ],
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theme-4",
+      "name": "Lingkungan & Bencana",
+      "keywords": [
+        "lingkungan",
+        "bencana",
+        "iklim"
+      ],
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "theme-5",
+      "name": "Infrastruktur & Kota",
+      "keywords": [
+        "infrastruktur",
+        "transportasi",
+        "hunian",
+        "kota",
+        "drainase"
+      ],
+      "color": "#06b6d4"
+    },
+    {
+      "id": "theme-6",
+      "name": "Tata Kelola & Birokrasi",
+      "keywords": [
+        "pemerintahan",
+        "birokrasi",
+        "regulasi",
+        "asn"
+      ],
+      "color": "#3b82f6"
+    },
+    {
+      "id": "theme-7",
+      "name": "Sosial & Budaya",
+      "keywords": [
+        "budaya",
+        "masyarakat",
+        "pariwisata",
+        "sosial"
+      ],
+      "color": "#10b981"
+    },
+    {
+      "id": "theme-8",
+      "name": "Teknologi & Digitalisasi",
+      "keywords": [
+        "teknologi",
+        "digital",
+        "inovasi"
+      ],
+      "color": "#ef4444"
+    },
+    {
+      "id": "theme-9",
+      "name": "Keamanan & Hukum",
+      "keywords": [
+        "keamanan"
+      ],
+      "color": "#f59e0b"
+    }
+  ]
+}
